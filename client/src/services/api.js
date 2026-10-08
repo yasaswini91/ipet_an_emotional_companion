@@ -1,6 +1,7 @@
 // API Client Service for iPET Full-Stack Application
 
-const BASE_URL = '/api';
+const API_BASE = (import.meta.env.VITE_API_URL || '').replace(/\/+$/, '');
+const BASE_URL = API_BASE ? `${API_BASE}/api` : '/api';
 
 function getHeaders() {
   const token = localStorage.getItem('ipet_token');
