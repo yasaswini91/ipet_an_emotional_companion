@@ -65,15 +65,38 @@ app.use('/api/study', studyRoutes);
 app.use('/api/roadmap', roadmapRoutes);
 
 // Connect DB & start server
-async function startServer() {
-  await connectDB();
+let isDbConnected = false;
+export async function ensureDbConnected() {
+  if (!isDbConnected) {
+    await connectDB();
+    isDbConnected = true;
+  }
+}
+
+export async function startServer() {
+  await ensureDbConnected();
   initScheduledJobs();
 
-  app.listen(PORT, () => {
+  return app.listen(PORT, () => {
     console.log(`🚀 iPET Backend Server running on http://localhost:${PORT}`);
   });
 }
 
-startServer().catch(err => {
-  console.error('Failed to start server:', err);
-});
+// In standard local or container environments, listen on PORT
+if (!process.env.VERCEL) {
+  startServer().catch(err => {
+    console.error('Failed to start server:', err);
+  });
+} else {
+  // On Vercel serverless environment, ensure DB is connected before handling requests
+  app.use(async (req, res, next) => {
+    try {
+      await ensureDbConnected();
+      next();
+    } catch (err) {
+      next(err);
+    }
+  });
+}
+
+export default app;
