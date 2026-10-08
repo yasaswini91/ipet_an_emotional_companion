@@ -1,0 +1,1521 @@
+[
+  {
+    "_id": "7025171d-2862-4e9c-807d-69792097fa6d",
+    "userId": "8fde3805-ab84-4035-b7e0-1b8141d45fde",
+    "petId": "0394aa05-c4c6-4e99-8a3a-24d57728e558",
+    "name": "Max",
+    "relation": "Good Friend",
+    "personality": "Sporty & Adventurous",
+    "hobbies": [
+      "Running",
+      "Swimming",
+      "Catching frisbees"
+    ],
+    "description": "An athletic golden retriever who lives across the park and loves sprint races.",
+    "avatarType": "dog",
+    "createdAt": "2026-10-07T13:06:20.059Z",
+    "updatedAt": "2026-10-07T13:06:20.059Z"
+  },
+  {
+    "_id": "5a4efe74-3a99-4524-bbc6-ce1176eeeb01",
+    "userId": "8fde3805-ab84-4035-b7e0-1b8141d45fde",
+    "petId": "0394aa05-c4c6-4e99-8a3a-24d57728e558",
+    "name": "Zhuangzhuang",
+    "relation": "Neighborhood Pal",
+    "personality": "Curious & Relaxed",
+    "hobbies": [
+      "Watching nature documentaries",
+      "Sunbathing on walls"
+    ],
+    "description": "A thoughtful tabby cat who loves discovering quiet sunny spots.",
+    "avatarType": "cat",
+    "createdAt": "2026-10-07T13:06:20.060Z",
+    "updatedAt": "2026-10-07T13:06:20.061Z"
+  },
+  {
+    "_id": "a87f46b9-0ff9-4ac1-ace8-08d5c377cb54",
+    "userId": "8fde3805-ab84-4035-b7e0-1b8141d45fde",
+    "petId": "0394aa05-c4c6-4e99-8a3a-24d57728e558",
+    "name": "Pippin",
+    "relation": "Playmate",
+    "personality": "Playful & Speedy",
+    "hobbies": [
+      "Chasing butterflies",
+      "Crunchy carrot tasting"
+    ],
+    "description": "A nimble bunny who loves exploring garden pathways.",
+    "avatarType": "rabbit",
+    "createdAt": "2026-10-07T13:06:20.063Z",
+    "updatedAt": "2026-10-07T13:06:20.067Z"
+  },
+  {
+    "_id": "0ae9c561-cc03-44f4-90a6-ae4aad92aeb9",
+    "userId": "4e80215b-987f-43c3-8bbc-261ac39ec2c2",
+    "petId": "7f61d929-1469-433a-9316-3ae937a951a1",
+    "name": "Max",
+    "relation": "Good Friend",
+    "personality": "Sporty & Adventurous",
+    "hobbies": [
+      "Running",
+      "Swimming",
+      "Catching frisbees"
+    ],
+    "description": "An athletic golden retriever who lives across the park and loves sprint races.",
+    "avatarType": "dog",
+    "createdAt": "2026-10-07T13:20:09.612Z",
+    "updatedAt": "2026-10-07T13:20:09.612Z"
+  },
+  {
+    "_id": "c6a8ae55-7b85-453c-8a11-cdec4f26d514",
+    "userId": "4e80215b-987f-43c3-8bbc-261ac39ec2c2",
+    "petId": "7f61d929-1469-433a-9316-3ae937a951a1",
+    "name": "Zhuangzhuang",
+    "relation": "Neighborhood Pal",
+    "personality": "Curious & Relaxed",
+    "hobbies": [
+      "Watching nature documentaries",
+      "Sunbathing on walls"
+    ],
+    "description": "A thoughtful tabby cat who loves discovering quiet sunny spots.",
+    "avatarType": "cat",
+    "createdAt": "2026-10-07T13:20:09.613Z",
+    "updatedAt": "2026-10-07T13:20:09.614Z"
+  },
+  {
+    "_id": "9d1f9262-e68e-4aea-b35c-b63fe7bf4d74",
+    "userId": "4e80215b-987f-43c3-8bbc-261ac39ec2c2",
+    "petId": "7f61d929-1469-433a-9316-3ae937a951a1",
+    "name": "Pippin",
+    "relation": "Playmate",
+    "personality": "Playful & Speedy",
+    "hobbies": [
+      "Chasing butterflies",
+      "Crunchy carrot tasting"
+    ],
+    "description": "A nimble bunny who loves exploring garden pathways.",
+    "avatarType": "rabbit",
+    "createdAt": "2026-10-07T13:20:09.614Z",
+    "updatedAt": "2026-10-07T13:20:09.615Z"
+  },
+  {
+    "_id": "7e61241b-d45e-42d1-8d2d-a5a90ed282cb",
+    "userId": "a099be5e-8b94-49ec-b8ea-5238ebefb462",
+    "petId": "1c4c0e09-40e7-4067-aa40-ccb76c86dd87",
+    "name": "Max",
+    "relation": "Good Friend",
+    "personality": "Sporty & Adventurous",
+    "hobbies": [
+      "Running",
+      "Swimming",
+      "Catching frisbees"
+    ],
+    "description": "An athletic golden retriever who lives across the park and loves sprint races.",
+    "avatarType": "dog",
+    "createdAt": "2026-10-07T13:22:00.276Z",
+    "updatedAt": "2026-10-07T13:22:00.276Z"
+  },
+  {
+    "_id": "eee1675c-2584-441d-83b9-f6fbfb10b007",
+    "userId": "a099be5e-8b94-49ec-b8ea-5238ebefb462",
+    "petId": "1c4c0e09-40e7-4067-aa40-ccb76c86dd87",
+    "name": "Zhuangzhuang",
+    "relation": "Neighborhood Pal",
+    "personality": "Curious & Relaxed",
+    "hobbies": [
+      "Watching nature documentaries",
+      "Sunbathing on walls"
+    ],
+    "description": "A thoughtful tabby cat who loves discovering quiet sunny spots.",
+    "avatarType": "cat",
+    "createdAt": "2026-10-07T13:22:00.277Z",
+    "updatedAt": "2026-10-07T13:22:00.279Z"
+  },
+  {
+    "_id": "899cfbd8-5953-47f4-8d77-239e5c2245c4",
+    "userId": "a099be5e-8b94-49ec-b8ea-5238ebefb462",
+    "petId": "1c4c0e09-40e7-4067-aa40-ccb76c86dd87",
+    "name": "Pippin",
+    "relation": "Playmate",
+    "personality": "Playful & Speedy",
+    "hobbies": [
+      "Chasing butterflies",
+      "Crunchy carrot tasting"
+    ],
+    "description": "A nimble bunny who loves exploring garden pathways.",
+    "avatarType": "rabbit",
+    "createdAt": "2026-10-07T13:22:00.279Z",
+    "updatedAt": "2026-10-07T13:22:00.281Z"
+  },
+  {
+    "_id": "61d43bff-4e77-4ca9-829d-7a4cfa58c69b",
+    "userId": "ebc6d3d9-a687-4d0d-a358-515fd3b05f65",
+    "petId": "22f77d56-80ed-481a-b06e-221823a683cf",
+    "name": "Max",
+    "relation": "Good Friend",
+    "personality": "Sporty & Adventurous",
+    "hobbies": [
+      "Running",
+      "Swimming",
+      "Catching frisbees"
+    ],
+    "description": "An athletic golden retriever who lives across the park and loves sprint races.",
+    "avatarType": "dog",
+    "createdAt": "2026-10-07T13:26:37.953Z",
+    "updatedAt": "2026-10-07T13:26:37.954Z"
+  },
+  {
+    "_id": "f9a707a4-86b1-4dc5-bee8-5cd7e09375ab",
+    "userId": "ebc6d3d9-a687-4d0d-a358-515fd3b05f65",
+    "petId": "22f77d56-80ed-481a-b06e-221823a683cf",
+    "name": "Zhuangzhuang",
+    "relation": "Neighborhood Pal",
+    "personality": "Curious & Relaxed",
+    "hobbies": [
+      "Watching nature documentaries",
+      "Sunbathing on walls"
+    ],
+    "description": "A thoughtful tabby cat who loves discovering quiet sunny spots.",
+    "avatarType": "cat",
+    "createdAt": "2026-10-07T13:26:37.954Z",
+    "updatedAt": "2026-10-07T13:26:37.956Z"
+  },
+  {
+    "_id": "f0d617d6-6472-43ed-9c40-caa2a9262db0",
+    "userId": "ebc6d3d9-a687-4d0d-a358-515fd3b05f65",
+    "petId": "22f77d56-80ed-481a-b06e-221823a683cf",
+    "name": "Pippin",
+    "relation": "Playmate",
+    "personality": "Playful & Speedy",
+    "hobbies": [
+      "Chasing butterflies",
+      "Crunchy carrot tasting"
+    ],
+    "description": "A nimble bunny who loves exploring garden pathways.",
+    "avatarType": "rabbit",
+    "createdAt": "2026-10-07T13:26:37.956Z",
+    "updatedAt": "2026-10-07T13:26:37.959Z"
+  },
+  {
+    "_id": "3d2fcb20-2dae-49fe-a73d-94d51a9e2656",
+    "userId": "1607cfd8-db6f-42c0-991a-d0e57f71ed56",
+    "petId": "eecc5306-d173-4906-8a90-ba0e3d61a4a8",
+    "name": "Max",
+    "relation": "Good Friend",
+    "personality": "Sporty & Adventurous",
+    "hobbies": [
+      "Running",
+      "Swimming",
+      "Catching frisbees"
+    ],
+    "description": "An athletic golden retriever who lives across the park and loves sprint races.",
+    "avatarType": "dog",
+    "createdAt": "2026-10-07T13:28:26.468Z",
+    "updatedAt": "2026-10-07T13:28:26.472Z"
+  },
+  {
+    "_id": "5e2f60b7-bbce-4083-933f-d2520a0395d2",
+    "userId": "1607cfd8-db6f-42c0-991a-d0e57f71ed56",
+    "petId": "eecc5306-d173-4906-8a90-ba0e3d61a4a8",
+    "name": "Zhuangzhuang",
+    "relation": "Neighborhood Pal",
+    "personality": "Curious & Relaxed",
+    "hobbies": [
+      "Watching nature documentaries",
+      "Sunbathing on walls"
+    ],
+    "description": "A thoughtful tabby cat who loves discovering quiet sunny spots.",
+    "avatarType": "cat",
+    "createdAt": "2026-10-07T13:28:26.473Z",
+    "updatedAt": "2026-10-07T13:28:26.476Z"
+  },
+  {
+    "_id": "d547894c-6e80-40f2-9a36-69794566b65b",
+    "userId": "1607cfd8-db6f-42c0-991a-d0e57f71ed56",
+    "petId": "eecc5306-d173-4906-8a90-ba0e3d61a4a8",
+    "name": "Pippin",
+    "relation": "Playmate",
+    "personality": "Playful & Speedy",
+    "hobbies": [
+      "Chasing butterflies",
+      "Crunchy carrot tasting"
+    ],
+    "description": "A nimble bunny who loves exploring garden pathways.",
+    "avatarType": "rabbit",
+    "createdAt": "2026-10-07T13:28:26.481Z",
+    "updatedAt": "2026-10-07T13:28:26.483Z"
+  },
+  {
+    "_id": "ad07dcf4-370b-4d78-a016-9742b0b28705",
+    "userId": "ea2406a3-3f29-4dac-a2f9-41f40a35e56d",
+    "petId": "72df5935-a90a-4b51-8785-22eae0a3895e",
+    "name": "Max",
+    "relation": "Good Friend",
+    "personality": "Sporty & Adventurous",
+    "hobbies": [
+      "Running",
+      "Swimming",
+      "Catching frisbees"
+    ],
+    "description": "An athletic golden retriever who lives across the park and loves sprint races.",
+    "avatarType": "dog",
+    "createdAt": "2026-10-07T13:29:21.834Z",
+    "updatedAt": "2026-10-07T13:29:21.835Z"
+  },
+  {
+    "_id": "c2b0ddaa-d64b-46f8-81d5-99e70eb52e38",
+    "userId": "ea2406a3-3f29-4dac-a2f9-41f40a35e56d",
+    "petId": "72df5935-a90a-4b51-8785-22eae0a3895e",
+    "name": "Zhuangzhuang",
+    "relation": "Neighborhood Pal",
+    "personality": "Curious & Relaxed",
+    "hobbies": [
+      "Watching nature documentaries",
+      "Sunbathing on walls"
+    ],
+    "description": "A thoughtful tabby cat who loves discovering quiet sunny spots.",
+    "avatarType": "cat",
+    "createdAt": "2026-10-07T13:29:21.840Z",
+    "updatedAt": "2026-10-07T13:29:21.845Z"
+  },
+  {
+    "_id": "0c0cbb6f-8a2f-42f9-9ffd-f614d428bd6c",
+    "userId": "ea2406a3-3f29-4dac-a2f9-41f40a35e56d",
+    "petId": "72df5935-a90a-4b51-8785-22eae0a3895e",
+    "name": "Pippin",
+    "relation": "Playmate",
+    "personality": "Playful & Speedy",
+    "hobbies": [
+      "Chasing butterflies",
+      "Crunchy carrot tasting"
+    ],
+    "description": "A nimble bunny who loves exploring garden pathways.",
+    "avatarType": "rabbit",
+    "createdAt": "2026-10-07T13:29:21.846Z",
+    "updatedAt": "2026-10-07T13:29:21.847Z"
+  },
+  {
+    "_id": "942f663c-3e93-4b1a-8de0-db7c040f0f0a",
+    "userId": "f8c10039-3ea7-456f-af61-f0d1497869ff",
+    "petId": "2bb6e3dd-3bd9-4be8-b82f-b2fe05060810",
+    "name": "Max",
+    "relation": "Good Friend",
+    "personality": "Sporty & Adventurous",
+    "hobbies": [
+      "Running",
+      "Swimming",
+      "Catching frisbees"
+    ],
+    "description": "An athletic golden retriever who lives across the park and loves sprint races.",
+    "avatarType": "dog",
+    "createdAt": "2026-10-07T13:48:34.810Z",
+    "updatedAt": "2026-10-07T13:48:34.810Z"
+  },
+  {
+    "_id": "5b504e4d-c030-4a75-a889-6e946694a5c3",
+    "userId": "f8c10039-3ea7-456f-af61-f0d1497869ff",
+    "petId": "2bb6e3dd-3bd9-4be8-b82f-b2fe05060810",
+    "name": "Zhuangzhuang",
+    "relation": "Neighborhood Pal",
+    "personality": "Curious & Relaxed",
+    "hobbies": [
+      "Watching nature documentaries",
+      "Sunbathing on walls"
+    ],
+    "description": "A thoughtful tabby cat who loves discovering quiet sunny spots.",
+    "avatarType": "cat",
+    "createdAt": "2026-10-07T13:48:34.811Z",
+    "updatedAt": "2026-10-07T13:48:34.815Z"
+  },
+  {
+    "_id": "82d12fcc-f5a3-438b-91e4-aa6c350d7046",
+    "userId": "f8c10039-3ea7-456f-af61-f0d1497869ff",
+    "petId": "2bb6e3dd-3bd9-4be8-b82f-b2fe05060810",
+    "name": "Pippin",
+    "relation": "Playmate",
+    "personality": "Playful & Speedy",
+    "hobbies": [
+      "Chasing butterflies",
+      "Crunchy carrot tasting"
+    ],
+    "description": "A nimble bunny who loves exploring garden pathways.",
+    "avatarType": "rabbit",
+    "createdAt": "2026-10-07T13:48:34.816Z",
+    "updatedAt": "2026-10-07T13:48:34.817Z"
+  },
+  {
+    "_id": "380c4fa7-108a-47e1-904a-6120aa7dfd93",
+    "userId": "8bc8f8c6-17bd-4259-9a45-4c365c9d31fa",
+    "petId": "9d996bce-5f68-4971-8da2-3a6385b99c87",
+    "name": "Max",
+    "relation": "Good Friend",
+    "personality": "Sporty & Adventurous",
+    "hobbies": [
+      "Running",
+      "Swimming",
+      "Catching frisbees"
+    ],
+    "description": "An athletic golden retriever who lives across the park and loves sprint races.",
+    "avatarType": "dog",
+    "createdAt": "2026-10-07T13:52:21.291Z",
+    "updatedAt": "2026-10-07T13:52:21.291Z"
+  },
+  {
+    "_id": "25979e4e-2230-47d2-ab2f-982074a36410",
+    "userId": "8bc8f8c6-17bd-4259-9a45-4c365c9d31fa",
+    "petId": "9d996bce-5f68-4971-8da2-3a6385b99c87",
+    "name": "Zhuangzhuang",
+    "relation": "Neighborhood Pal",
+    "personality": "Curious & Relaxed",
+    "hobbies": [
+      "Watching nature documentaries",
+      "Sunbathing on walls"
+    ],
+    "description": "A thoughtful tabby cat who loves discovering quiet sunny spots.",
+    "avatarType": "cat",
+    "createdAt": "2026-10-07T13:52:21.295Z",
+    "updatedAt": "2026-10-07T13:52:21.297Z"
+  },
+  {
+    "_id": "0ecf1315-2386-44d5-8275-a1cfd86983df",
+    "userId": "8bc8f8c6-17bd-4259-9a45-4c365c9d31fa",
+    "petId": "9d996bce-5f68-4971-8da2-3a6385b99c87",
+    "name": "Pippin",
+    "relation": "Playmate",
+    "personality": "Playful & Speedy",
+    "hobbies": [
+      "Chasing butterflies",
+      "Crunchy carrot tasting"
+    ],
+    "description": "A nimble bunny who loves exploring garden pathways.",
+    "avatarType": "rabbit",
+    "createdAt": "2026-10-07T13:52:21.298Z",
+    "updatedAt": "2026-10-07T13:52:21.301Z"
+  },
+  {
+    "_id": "16441d2e-fbda-407f-a24b-e5db952a3adb",
+    "userId": "cbbe380b-bceb-4c71-8788-6acfa7c1b4d7",
+    "petId": "99033910-a13a-4a0c-8521-e7926a365d18",
+    "name": "Max",
+    "relation": "Good Friend",
+    "personality": "Sporty & Adventurous",
+    "hobbies": [
+      "Running",
+      "Swimming",
+      "Catching frisbees"
+    ],
+    "description": "An athletic golden retriever who lives across the park and loves sprint races.",
+    "avatarType": "dog",
+    "createdAt": "2026-10-07T14:04:30.696Z",
+    "updatedAt": "2026-10-07T14:04:30.696Z"
+  },
+  {
+    "_id": "2abaabf2-06ae-4188-9c3a-7bdd44f8f178",
+    "userId": "cbbe380b-bceb-4c71-8788-6acfa7c1b4d7",
+    "petId": "99033910-a13a-4a0c-8521-e7926a365d18",
+    "name": "Zhuangzhuang",
+    "relation": "Neighborhood Pal",
+    "personality": "Curious & Relaxed",
+    "hobbies": [
+      "Watching nature documentaries",
+      "Sunbathing on walls"
+    ],
+    "description": "A thoughtful tabby cat who loves discovering quiet sunny spots.",
+    "avatarType": "cat",
+    "createdAt": "2026-10-07T14:04:30.697Z",
+    "updatedAt": "2026-10-07T14:04:30.703Z"
+  },
+  {
+    "_id": "b057c5f2-89c3-4b5d-b4d5-36ac9cfa0b58",
+    "userId": "cbbe380b-bceb-4c71-8788-6acfa7c1b4d7",
+    "petId": "99033910-a13a-4a0c-8521-e7926a365d18",
+    "name": "Pippin",
+    "relation": "Playmate",
+    "personality": "Playful & Speedy",
+    "hobbies": [
+      "Chasing butterflies",
+      "Crunchy carrot tasting"
+    ],
+    "description": "A nimble bunny who loves exploring garden pathways.",
+    "avatarType": "rabbit",
+    "createdAt": "2026-10-07T14:04:30.704Z",
+    "updatedAt": "2026-10-07T14:04:30.705Z"
+  },
+  {
+    "_id": "551efa4b-3687-4ec8-9353-3640348aee4f",
+    "userId": "820bee86-777a-4657-ab95-d79319e185d6",
+    "petId": "9f04829e-8433-4f46-9adf-855841a345fb",
+    "name": "Max",
+    "relation": "Good Friend",
+    "personality": "Sporty & Adventurous",
+    "hobbies": [
+      "Running",
+      "Swimming",
+      "Catching frisbees"
+    ],
+    "description": "An athletic golden retriever who lives across the park and loves sprint races.",
+    "avatarType": "dog",
+    "createdAt": "2026-10-07T14:06:44.518Z",
+    "updatedAt": "2026-10-07T14:06:44.518Z"
+  },
+  {
+    "_id": "2477c82b-4cf2-45b5-b217-dd171155321a",
+    "userId": "820bee86-777a-4657-ab95-d79319e185d6",
+    "petId": "9f04829e-8433-4f46-9adf-855841a345fb",
+    "name": "Zhuangzhuang",
+    "relation": "Neighborhood Pal",
+    "personality": "Curious & Relaxed",
+    "hobbies": [
+      "Watching nature documentaries",
+      "Sunbathing on walls"
+    ],
+    "description": "A thoughtful tabby cat who loves discovering quiet sunny spots.",
+    "avatarType": "cat",
+    "createdAt": "2026-10-07T14:06:44.519Z",
+    "updatedAt": "2026-10-07T14:06:44.520Z"
+  },
+  {
+    "_id": "64189c8f-7df6-4952-ad00-0c7cee4146b4",
+    "userId": "820bee86-777a-4657-ab95-d79319e185d6",
+    "petId": "9f04829e-8433-4f46-9adf-855841a345fb",
+    "name": "Pippin",
+    "relation": "Playmate",
+    "personality": "Playful & Speedy",
+    "hobbies": [
+      "Chasing butterflies",
+      "Crunchy carrot tasting"
+    ],
+    "description": "A nimble bunny who loves exploring garden pathways.",
+    "avatarType": "rabbit",
+    "createdAt": "2026-10-07T14:06:44.520Z",
+    "updatedAt": "2026-10-07T14:06:44.521Z"
+  },
+  {
+    "_id": "d26d110f-07d5-4c9a-a1e0-b5d7feb22655",
+    "userId": "5d7b405e-9cf9-44d3-810d-e8994a707f08",
+    "petId": "9c5671e0-e2f3-44f3-ac72-343225879118",
+    "name": "Max",
+    "relation": "Good Friend",
+    "personality": "Sporty & Adventurous",
+    "hobbies": [
+      "Running",
+      "Swimming",
+      "Catching frisbees"
+    ],
+    "description": "An athletic golden retriever who lives across the park and loves sprint races.",
+    "avatarType": "dog",
+    "createdAt": "2026-10-07T15:54:18.568Z",
+    "updatedAt": "2026-10-07T15:54:18.568Z"
+  },
+  {
+    "_id": "832f0839-9a5f-4c9c-8023-fb6cb0ca360c",
+    "userId": "5d7b405e-9cf9-44d3-810d-e8994a707f08",
+    "petId": "9c5671e0-e2f3-44f3-ac72-343225879118",
+    "name": "Zhuangzhuang",
+    "relation": "Neighborhood Pal",
+    "personality": "Curious & Relaxed",
+    "hobbies": [
+      "Watching nature documentaries",
+      "Sunbathing on walls"
+    ],
+    "description": "A thoughtful tabby cat who loves discovering quiet sunny spots.",
+    "avatarType": "cat",
+    "createdAt": "2026-10-07T15:54:18.572Z",
+    "updatedAt": "2026-10-07T15:54:18.574Z"
+  },
+  {
+    "_id": "f3d70312-818b-4841-9106-e19fc306c6f8",
+    "userId": "5d7b405e-9cf9-44d3-810d-e8994a707f08",
+    "petId": "9c5671e0-e2f3-44f3-ac72-343225879118",
+    "name": "Pippin",
+    "relation": "Playmate",
+    "personality": "Playful & Speedy",
+    "hobbies": [
+      "Chasing butterflies",
+      "Crunchy carrot tasting"
+    ],
+    "description": "A nimble bunny who loves exploring garden pathways.",
+    "avatarType": "rabbit",
+    "createdAt": "2026-10-07T15:54:18.575Z",
+    "updatedAt": "2026-10-07T15:54:18.576Z"
+  },
+  {
+    "_id": "72ea9d00-622c-4f6e-83e3-ab916bf06e93",
+    "userId": "00ed5276-0a05-439c-8307-77b5afa40d0a",
+    "petId": "3f1ec7d6-4eaa-4ba2-9157-4206ce892246",
+    "name": "Max",
+    "relation": "Good Friend",
+    "personality": "Sporty & Adventurous",
+    "hobbies": [
+      "Running",
+      "Swimming",
+      "Catching frisbees"
+    ],
+    "description": "An athletic golden retriever who lives across the park and loves sprint races.",
+    "avatarType": "dog",
+    "createdAt": "2026-10-07T17:09:16.872Z",
+    "updatedAt": "2026-10-07T17:09:16.872Z"
+  },
+  {
+    "_id": "a2fe360b-9893-4cad-8541-9ede1b6b1735",
+    "userId": "00ed5276-0a05-439c-8307-77b5afa40d0a",
+    "petId": "3f1ec7d6-4eaa-4ba2-9157-4206ce892246",
+    "name": "Zhuangzhuang",
+    "relation": "Neighborhood Pal",
+    "personality": "Curious & Relaxed",
+    "hobbies": [
+      "Watching nature documentaries",
+      "Sunbathing on walls"
+    ],
+    "description": "A thoughtful tabby cat who loves discovering quiet sunny spots.",
+    "avatarType": "cat",
+    "createdAt": "2026-10-07T17:09:16.873Z",
+    "updatedAt": "2026-10-07T17:09:16.874Z"
+  },
+  {
+    "_id": "96b8edf6-882e-469b-98ae-2cbc60917e46",
+    "userId": "00ed5276-0a05-439c-8307-77b5afa40d0a",
+    "petId": "3f1ec7d6-4eaa-4ba2-9157-4206ce892246",
+    "name": "Pippin",
+    "relation": "Playmate",
+    "personality": "Playful & Speedy",
+    "hobbies": [
+      "Chasing butterflies",
+      "Crunchy carrot tasting"
+    ],
+    "description": "A nimble bunny who loves exploring garden pathways.",
+    "avatarType": "rabbit",
+    "createdAt": "2026-10-07T17:09:16.875Z",
+    "updatedAt": "2026-10-07T17:09:16.876Z"
+  },
+  {
+    "_id": "c5441f38-cdb0-4255-981f-0210cd0615cf",
+    "userId": "e2636f0a-fd56-48ef-ad5d-36a2c6f4d8b4",
+    "petId": "5cd18486-718d-42e8-b61a-5841c44d1719",
+    "name": "Max",
+    "relation": "Good Friend",
+    "personality": "Sporty & Adventurous",
+    "hobbies": [
+      "Running",
+      "Swimming",
+      "Catching frisbees"
+    ],
+    "description": "An athletic golden retriever who lives across the park and loves sprint races.",
+    "avatarType": "dog",
+    "createdAt": "2026-10-07T17:09:59.479Z",
+    "updatedAt": "2026-10-07T17:09:59.479Z"
+  },
+  {
+    "_id": "e3e7897d-3c25-40ea-b7a9-e9d5d987efb0",
+    "userId": "e2636f0a-fd56-48ef-ad5d-36a2c6f4d8b4",
+    "petId": "5cd18486-718d-42e8-b61a-5841c44d1719",
+    "name": "Zhuangzhuang",
+    "relation": "Neighborhood Pal",
+    "personality": "Curious & Relaxed",
+    "hobbies": [
+      "Watching nature documentaries",
+      "Sunbathing on walls"
+    ],
+    "description": "A thoughtful tabby cat who loves discovering quiet sunny spots.",
+    "avatarType": "cat",
+    "createdAt": "2026-10-07T17:09:59.480Z",
+    "updatedAt": "2026-10-07T17:09:59.481Z"
+  },
+  {
+    "_id": "6484966b-f685-4231-80bd-9b998176d7a5",
+    "userId": "e2636f0a-fd56-48ef-ad5d-36a2c6f4d8b4",
+    "petId": "5cd18486-718d-42e8-b61a-5841c44d1719",
+    "name": "Pippin",
+    "relation": "Playmate",
+    "personality": "Playful & Speedy",
+    "hobbies": [
+      "Chasing butterflies",
+      "Crunchy carrot tasting"
+    ],
+    "description": "A nimble bunny who loves exploring garden pathways.",
+    "avatarType": "rabbit",
+    "createdAt": "2026-10-07T17:09:59.481Z",
+    "updatedAt": "2026-10-07T17:09:59.483Z"
+  },
+  {
+    "_id": "b24b347a-73f0-40e4-9382-0febdb27176e",
+    "userId": "b0b54302-f99c-4316-9615-161d7b160145",
+    "petId": "d5e87f74-bd0b-4446-a10d-fe67185e7d24",
+    "name": "Max",
+    "relation": "Good Friend",
+    "personality": "Sporty & Adventurous",
+    "hobbies": [
+      "Running",
+      "Swimming",
+      "Catching frisbees"
+    ],
+    "description": "An athletic golden retriever who lives across the park and loves sprint races.",
+    "avatarType": "dog",
+    "createdAt": "2026-10-07T17:10:14.764Z",
+    "updatedAt": "2026-10-07T17:10:14.764Z"
+  },
+  {
+    "_id": "3074d3a8-9091-4ce5-b3fd-ab7e49bfe826",
+    "userId": "b0b54302-f99c-4316-9615-161d7b160145",
+    "petId": "d5e87f74-bd0b-4446-a10d-fe67185e7d24",
+    "name": "Zhuangzhuang",
+    "relation": "Neighborhood Pal",
+    "personality": "Curious & Relaxed",
+    "hobbies": [
+      "Watching nature documentaries",
+      "Sunbathing on walls"
+    ],
+    "description": "A thoughtful tabby cat who loves discovering quiet sunny spots.",
+    "avatarType": "cat",
+    "createdAt": "2026-10-07T17:10:14.765Z",
+    "updatedAt": "2026-10-07T17:10:14.766Z"
+  },
+  {
+    "_id": "5e9e6ec1-503e-48fa-9de0-24f2934c1e7b",
+    "userId": "b0b54302-f99c-4316-9615-161d7b160145",
+    "petId": "d5e87f74-bd0b-4446-a10d-fe67185e7d24",
+    "name": "Pippin",
+    "relation": "Playmate",
+    "personality": "Playful & Speedy",
+    "hobbies": [
+      "Chasing butterflies",
+      "Crunchy carrot tasting"
+    ],
+    "description": "A nimble bunny who loves exploring garden pathways.",
+    "avatarType": "rabbit",
+    "createdAt": "2026-10-07T17:10:14.766Z",
+    "updatedAt": "2026-10-07T17:10:14.767Z"
+  },
+  {
+    "_id": "57271982-a2e2-490f-8b22-78441b70d10a",
+    "userId": "bc52bdcb-5eb3-43b7-97ff-7f6ed20bbf3d",
+    "petId": "cf911bbc-7acf-48ef-8edb-e150d853e4da",
+    "name": "Max",
+    "relation": "Good Friend",
+    "personality": "Sporty & Adventurous",
+    "hobbies": [
+      "Running",
+      "Swimming",
+      "Catching frisbees"
+    ],
+    "description": "An athletic golden retriever who lives across the park and loves sprint races.",
+    "avatarType": "dog",
+    "createdAt": "2026-10-07T17:10:27.473Z",
+    "updatedAt": "2026-10-07T17:10:27.474Z"
+  },
+  {
+    "_id": "90e93d50-9b04-4ca8-b379-4bc387a781ec",
+    "userId": "bc52bdcb-5eb3-43b7-97ff-7f6ed20bbf3d",
+    "petId": "cf911bbc-7acf-48ef-8edb-e150d853e4da",
+    "name": "Zhuangzhuang",
+    "relation": "Neighborhood Pal",
+    "personality": "Curious & Relaxed",
+    "hobbies": [
+      "Watching nature documentaries",
+      "Sunbathing on walls"
+    ],
+    "description": "A thoughtful tabby cat who loves discovering quiet sunny spots.",
+    "avatarType": "cat",
+    "createdAt": "2026-10-07T17:10:27.474Z",
+    "updatedAt": "2026-10-07T17:10:27.476Z"
+  },
+  {
+    "_id": "59db67cd-c2cc-4b25-96f2-05a32f5bbea2",
+    "userId": "bc52bdcb-5eb3-43b7-97ff-7f6ed20bbf3d",
+    "petId": "cf911bbc-7acf-48ef-8edb-e150d853e4da",
+    "name": "Pippin",
+    "relation": "Playmate",
+    "personality": "Playful & Speedy",
+    "hobbies": [
+      "Chasing butterflies",
+      "Crunchy carrot tasting"
+    ],
+    "description": "A nimble bunny who loves exploring garden pathways.",
+    "avatarType": "rabbit",
+    "createdAt": "2026-10-07T17:10:27.476Z",
+    "updatedAt": "2026-10-07T17:10:27.477Z"
+  },
+  {
+    "_id": "d83307c3-5354-434f-8ea2-fa299f86c593",
+    "userId": "882255e0-8b9b-4106-9e7c-2a8e17a05232",
+    "petId": "055bf455-74b3-4a10-8f54-120630dab976",
+    "name": "Max",
+    "relation": "Good Friend",
+    "personality": "Sporty & Adventurous",
+    "hobbies": [
+      "Running",
+      "Swimming",
+      "Catching frisbees"
+    ],
+    "description": "An athletic golden retriever who lives across the park and loves sprint races.",
+    "avatarType": "dog",
+    "createdAt": "2026-10-07T17:11:20.075Z",
+    "updatedAt": "2026-10-07T17:11:20.075Z"
+  },
+  {
+    "_id": "ecfdfb99-ab13-426c-ab26-024e439239d1",
+    "userId": "882255e0-8b9b-4106-9e7c-2a8e17a05232",
+    "petId": "055bf455-74b3-4a10-8f54-120630dab976",
+    "name": "Zhuangzhuang",
+    "relation": "Neighborhood Pal",
+    "personality": "Curious & Relaxed",
+    "hobbies": [
+      "Watching nature documentaries",
+      "Sunbathing on walls"
+    ],
+    "description": "A thoughtful tabby cat who loves discovering quiet sunny spots.",
+    "avatarType": "cat",
+    "createdAt": "2026-10-07T17:11:20.075Z",
+    "updatedAt": "2026-10-07T17:11:20.076Z"
+  },
+  {
+    "_id": "2df6bea2-33aa-4484-adad-83beb614986d",
+    "userId": "882255e0-8b9b-4106-9e7c-2a8e17a05232",
+    "petId": "055bf455-74b3-4a10-8f54-120630dab976",
+    "name": "Pippin",
+    "relation": "Playmate",
+    "personality": "Playful & Speedy",
+    "hobbies": [
+      "Chasing butterflies",
+      "Crunchy carrot tasting"
+    ],
+    "description": "A nimble bunny who loves exploring garden pathways.",
+    "avatarType": "rabbit",
+    "createdAt": "2026-10-07T17:11:20.077Z",
+    "updatedAt": "2026-10-07T17:11:20.078Z"
+  },
+  {
+    "_id": "9682e479-9369-4bc0-bcfe-f65b4d93181f",
+    "userId": "df15df29-bbeb-458d-bbdb-d27970ffe5d6",
+    "petId": "f063f1a0-3585-4c9f-befa-3270b733da4d",
+    "name": "Max",
+    "relation": "Good Friend",
+    "personality": "Sporty & Adventurous",
+    "hobbies": [
+      "Running",
+      "Swimming",
+      "Catching frisbees"
+    ],
+    "description": "An athletic golden retriever who lives across the park and loves sprint races.",
+    "avatarType": "dog",
+    "createdAt": "2026-10-07T17:13:27.305Z",
+    "updatedAt": "2026-10-07T17:13:27.306Z"
+  },
+  {
+    "_id": "10b210b1-a577-4acb-a5b4-012c5fd478fd",
+    "userId": "df15df29-bbeb-458d-bbdb-d27970ffe5d6",
+    "petId": "f063f1a0-3585-4c9f-befa-3270b733da4d",
+    "name": "Zhuangzhuang",
+    "relation": "Neighborhood Pal",
+    "personality": "Curious & Relaxed",
+    "hobbies": [
+      "Watching nature documentaries",
+      "Sunbathing on walls"
+    ],
+    "description": "A thoughtful tabby cat who loves discovering quiet sunny spots.",
+    "avatarType": "cat",
+    "createdAt": "2026-10-07T17:13:27.307Z",
+    "updatedAt": "2026-10-07T17:13:27.309Z"
+  },
+  {
+    "_id": "4213d534-bde4-4aff-8692-45b541481c9e",
+    "userId": "df15df29-bbeb-458d-bbdb-d27970ffe5d6",
+    "petId": "f063f1a0-3585-4c9f-befa-3270b733da4d",
+    "name": "Pippin",
+    "relation": "Playmate",
+    "personality": "Playful & Speedy",
+    "hobbies": [
+      "Chasing butterflies",
+      "Crunchy carrot tasting"
+    ],
+    "description": "A nimble bunny who loves exploring garden pathways.",
+    "avatarType": "rabbit",
+    "createdAt": "2026-10-07T17:13:27.309Z",
+    "updatedAt": "2026-10-07T17:13:27.312Z"
+  },
+  {
+    "_id": "16d2430a-79c1-452f-ab45-d6fbeeb0cc8a",
+    "userId": "1c30f734-5f8e-4574-a11d-631d7ba7b374",
+    "petId": "c34bc49b-e96d-4eab-9228-37a07cf3f7d4",
+    "name": "Max",
+    "relation": "Good Friend",
+    "personality": "Sporty & Adventurous",
+    "hobbies": [
+      "Running",
+      "Swimming",
+      "Catching frisbees"
+    ],
+    "description": "An athletic golden retriever who lives across the park and loves sprint races.",
+    "avatarType": "dog",
+    "createdAt": "2026-10-07T17:21:18.603Z",
+    "updatedAt": "2026-10-07T17:21:18.604Z"
+  },
+  {
+    "_id": "d7a78ec1-89c2-4033-bc1f-1fa98ad40610",
+    "userId": "1c30f734-5f8e-4574-a11d-631d7ba7b374",
+    "petId": "c34bc49b-e96d-4eab-9228-37a07cf3f7d4",
+    "name": "Zhuangzhuang",
+    "relation": "Neighborhood Pal",
+    "personality": "Curious & Relaxed",
+    "hobbies": [
+      "Watching nature documentaries",
+      "Sunbathing on walls"
+    ],
+    "description": "A thoughtful tabby cat who loves discovering quiet sunny spots.",
+    "avatarType": "cat",
+    "createdAt": "2026-10-07T17:21:18.609Z",
+    "updatedAt": "2026-10-07T17:21:18.613Z"
+  },
+  {
+    "_id": "d1a55186-7561-40f1-b797-560a50702da7",
+    "userId": "1c30f734-5f8e-4574-a11d-631d7ba7b374",
+    "petId": "c34bc49b-e96d-4eab-9228-37a07cf3f7d4",
+    "name": "Pippin",
+    "relation": "Playmate",
+    "personality": "Playful & Speedy",
+    "hobbies": [
+      "Chasing butterflies",
+      "Crunchy carrot tasting"
+    ],
+    "description": "A nimble bunny who loves exploring garden pathways.",
+    "avatarType": "rabbit",
+    "createdAt": "2026-10-07T17:21:18.615Z",
+    "updatedAt": "2026-10-07T17:21:18.617Z"
+  },
+  {
+    "_id": "d94db219-e590-490b-8e2f-4e5bc90e5202",
+    "userId": "5b07ad25-0a2c-4509-bf4d-db3ea7ffc07f",
+    "petId": "a1f996da-7e22-4825-b3cf-5cd29205e049",
+    "name": "Max",
+    "relation": "Good Friend",
+    "personality": "Sporty & Adventurous",
+    "hobbies": [
+      "Running",
+      "Swimming",
+      "Catching frisbees"
+    ],
+    "description": "An athletic golden retriever who lives across the park and loves sprint races.",
+    "avatarType": "dog",
+    "createdAt": "2026-10-07T17:27:36.235Z",
+    "updatedAt": "2026-10-07T17:27:36.235Z"
+  },
+  {
+    "_id": "bc970890-c8a6-4d10-b87e-977b130b36c5",
+    "userId": "5b07ad25-0a2c-4509-bf4d-db3ea7ffc07f",
+    "petId": "a1f996da-7e22-4825-b3cf-5cd29205e049",
+    "name": "Zhuangzhuang",
+    "relation": "Neighborhood Pal",
+    "personality": "Curious & Relaxed",
+    "hobbies": [
+      "Watching nature documentaries",
+      "Sunbathing on walls"
+    ],
+    "description": "A thoughtful tabby cat who loves discovering quiet sunny spots.",
+    "avatarType": "cat",
+    "createdAt": "2026-10-07T17:27:36.236Z",
+    "updatedAt": "2026-10-07T17:27:36.237Z"
+  },
+  {
+    "_id": "e3cda67e-8d0f-46e9-8a57-165ff6f4e8b9",
+    "userId": "5b07ad25-0a2c-4509-bf4d-db3ea7ffc07f",
+    "petId": "a1f996da-7e22-4825-b3cf-5cd29205e049",
+    "name": "Pippin",
+    "relation": "Playmate",
+    "personality": "Playful & Speedy",
+    "hobbies": [
+      "Chasing butterflies",
+      "Crunchy carrot tasting"
+    ],
+    "description": "A nimble bunny who loves exploring garden pathways.",
+    "avatarType": "rabbit",
+    "createdAt": "2026-10-07T17:27:36.237Z",
+    "updatedAt": "2026-10-07T17:27:36.239Z"
+  },
+  {
+    "_id": "f846074e-33d0-4665-9c4e-e422cd98bf5f",
+    "userId": "808c5d70-3bac-45e2-982e-7067b066b9b7",
+    "petId": "3032e133-ba76-459c-bc5a-eacd40e5fbb9",
+    "name": "Max",
+    "relation": "Good Friend",
+    "personality": "Sporty & Adventurous",
+    "hobbies": [
+      "Running",
+      "Swimming",
+      "Catching frisbees"
+    ],
+    "description": "An athletic golden retriever who lives across the park and loves sprint races.",
+    "avatarType": "dog",
+    "createdAt": "2026-10-07T17:37:03.980Z",
+    "updatedAt": "2026-10-07T17:37:03.980Z"
+  },
+  {
+    "_id": "99c2e663-ee34-4d9f-bd09-1af7ecd00fa5",
+    "userId": "808c5d70-3bac-45e2-982e-7067b066b9b7",
+    "petId": "3032e133-ba76-459c-bc5a-eacd40e5fbb9",
+    "name": "Zhuangzhuang",
+    "relation": "Neighborhood Pal",
+    "personality": "Curious & Relaxed",
+    "hobbies": [
+      "Watching nature documentaries",
+      "Sunbathing on walls"
+    ],
+    "description": "A thoughtful tabby cat who loves discovering quiet sunny spots.",
+    "avatarType": "cat",
+    "createdAt": "2026-10-07T17:37:03.981Z",
+    "updatedAt": "2026-10-07T17:37:03.982Z"
+  },
+  {
+    "_id": "bb3d7964-1ec4-4719-b7cd-af90135fccf4",
+    "userId": "808c5d70-3bac-45e2-982e-7067b066b9b7",
+    "petId": "3032e133-ba76-459c-bc5a-eacd40e5fbb9",
+    "name": "Pippin",
+    "relation": "Playmate",
+    "personality": "Playful & Speedy",
+    "hobbies": [
+      "Chasing butterflies",
+      "Crunchy carrot tasting"
+    ],
+    "description": "A nimble bunny who loves exploring garden pathways.",
+    "avatarType": "rabbit",
+    "createdAt": "2026-10-07T17:37:03.983Z",
+    "updatedAt": "2026-10-07T17:37:03.985Z"
+  },
+  {
+    "_id": "4fffd425-4f0c-40cf-9ffa-bc74281b9d29",
+    "userId": "23110949-4854-40f4-babe-da0cb7171473",
+    "petId": "ea852cb2-e5b2-4fa2-a632-3b72d3fad0f3",
+    "name": "Max",
+    "relation": "Good Friend",
+    "personality": "Sporty & Adventurous",
+    "hobbies": [
+      "Running",
+      "Swimming",
+      "Catching frisbees"
+    ],
+    "description": "An athletic golden retriever who lives across the park and loves sprint races.",
+    "avatarType": "dog",
+    "createdAt": "2026-10-07T17:45:43.844Z",
+    "updatedAt": "2026-10-07T17:45:43.845Z"
+  },
+  {
+    "_id": "73aad32a-8426-4809-93b4-f5c0c01f5fe1",
+    "userId": "23110949-4854-40f4-babe-da0cb7171473",
+    "petId": "ea852cb2-e5b2-4fa2-a632-3b72d3fad0f3",
+    "name": "Zhuangzhuang",
+    "relation": "Neighborhood Pal",
+    "personality": "Curious & Relaxed",
+    "hobbies": [
+      "Watching nature documentaries",
+      "Sunbathing on walls"
+    ],
+    "description": "A thoughtful tabby cat who loves discovering quiet sunny spots.",
+    "avatarType": "cat",
+    "createdAt": "2026-10-07T17:45:43.846Z",
+    "updatedAt": "2026-10-07T17:45:43.848Z"
+  },
+  {
+    "_id": "c0c01a8f-261b-46a0-b4c1-ecb2bc1925be",
+    "userId": "23110949-4854-40f4-babe-da0cb7171473",
+    "petId": "ea852cb2-e5b2-4fa2-a632-3b72d3fad0f3",
+    "name": "Pippin",
+    "relation": "Playmate",
+    "personality": "Playful & Speedy",
+    "hobbies": [
+      "Chasing butterflies",
+      "Crunchy carrot tasting"
+    ],
+    "description": "A nimble bunny who loves exploring garden pathways.",
+    "avatarType": "rabbit",
+    "createdAt": "2026-10-07T17:45:43.849Z",
+    "updatedAt": "2026-10-07T17:45:43.851Z"
+  },
+  {
+    "_id": "2eb6a277-abf0-4cb1-b336-4cb34d247af3",
+    "userId": "0eaa7c5d-38df-4ea3-b015-d246f7921f2e",
+    "petId": "eb01f8a5-17ce-4f57-9d41-e7b1567155ec",
+    "name": "Max",
+    "relation": "Good Friend",
+    "personality": "Sporty & Adventurous",
+    "hobbies": [
+      "Running",
+      "Swimming",
+      "Catching frisbees"
+    ],
+    "description": "An athletic golden retriever who lives across the park and loves sprint races.",
+    "avatarType": "dog",
+    "createdAt": "2026-10-08T03:32:52.283Z",
+    "updatedAt": "2026-10-08T03:32:52.284Z"
+  },
+  {
+    "_id": "1a41dcb6-5773-4c33-8eba-4154398884ce",
+    "userId": "0eaa7c5d-38df-4ea3-b015-d246f7921f2e",
+    "petId": "eb01f8a5-17ce-4f57-9d41-e7b1567155ec",
+    "name": "Zhuangzhuang",
+    "relation": "Neighborhood Pal",
+    "personality": "Curious & Relaxed",
+    "hobbies": [
+      "Watching nature documentaries",
+      "Sunbathing on walls"
+    ],
+    "description": "A thoughtful tabby cat who loves discovering quiet sunny spots.",
+    "avatarType": "cat",
+    "createdAt": "2026-10-08T03:32:52.292Z",
+    "updatedAt": "2026-10-08T03:32:52.293Z"
+  },
+  {
+    "_id": "15c47a46-5cdc-4207-9efb-5808692f3090",
+    "userId": "0eaa7c5d-38df-4ea3-b015-d246f7921f2e",
+    "petId": "eb01f8a5-17ce-4f57-9d41-e7b1567155ec",
+    "name": "Pippin",
+    "relation": "Playmate",
+    "personality": "Playful & Speedy",
+    "hobbies": [
+      "Chasing butterflies",
+      "Crunchy carrot tasting"
+    ],
+    "description": "A nimble bunny who loves exploring garden pathways.",
+    "avatarType": "rabbit",
+    "createdAt": "2026-10-08T03:32:52.294Z",
+    "updatedAt": "2026-10-08T03:32:52.295Z"
+  },
+  {
+    "_id": "442af9b1-3c45-4f3e-a192-2d50cbc563e1",
+    "userId": "865af014-af06-459a-892f-0e1612dcf6f6",
+    "petId": "598f1689-71b8-40b8-aa10-1459d92b2a92",
+    "name": "Max",
+    "relation": "Good Friend",
+    "personality": "Sporty & Adventurous",
+    "hobbies": [
+      "Running",
+      "Swimming",
+      "Catching frisbees"
+    ],
+    "description": "An athletic golden retriever who lives across the park and loves sprint races.",
+    "avatarType": "dog",
+    "createdAt": "2026-10-08T08:53:13.976Z",
+    "updatedAt": "2026-10-08T08:53:13.977Z"
+  },
+  {
+    "_id": "2415eb43-da51-4057-9820-5c66201d6eca",
+    "userId": "865af014-af06-459a-892f-0e1612dcf6f6",
+    "petId": "598f1689-71b8-40b8-aa10-1459d92b2a92",
+    "name": "Zhuangzhuang",
+    "relation": "Neighborhood Pal",
+    "personality": "Curious & Relaxed",
+    "hobbies": [
+      "Watching nature documentaries",
+      "Sunbathing on walls"
+    ],
+    "description": "A thoughtful tabby cat who loves discovering quiet sunny spots.",
+    "avatarType": "cat",
+    "createdAt": "2026-10-08T08:53:13.978Z",
+    "updatedAt": "2026-10-08T08:53:13.980Z"
+  },
+  {
+    "_id": "e9eceac5-92f6-439e-bb45-0d771c3f7f3e",
+    "userId": "865af014-af06-459a-892f-0e1612dcf6f6",
+    "petId": "598f1689-71b8-40b8-aa10-1459d92b2a92",
+    "name": "Pippin",
+    "relation": "Playmate",
+    "personality": "Playful & Speedy",
+    "hobbies": [
+      "Chasing butterflies",
+      "Crunchy carrot tasting"
+    ],
+    "description": "A nimble bunny who loves exploring garden pathways.",
+    "avatarType": "rabbit",
+    "createdAt": "2026-10-08T08:53:13.980Z",
+    "updatedAt": "2026-10-08T08:53:13.982Z"
+  },
+  {
+    "_id": "740665b2-87b9-43b1-87a9-af3fdcf5b3e7",
+    "userId": "ddb32b0a-4d2c-4dc1-834b-45fe9844248a",
+    "petId": "2eb2c1b6-3c1b-4240-9a1b-15d92ccaba9c",
+    "name": "Max",
+    "relation": "Good Friend",
+    "personality": "Sporty & Adventurous",
+    "hobbies": [
+      "Running",
+      "Swimming",
+      "Catching frisbees"
+    ],
+    "description": "An athletic golden retriever who lives across the park and loves sprint races.",
+    "avatarType": "dog",
+    "createdAt": "2026-10-08T10:13:36.329Z",
+    "updatedAt": "2026-10-08T10:13:36.331Z"
+  },
+  {
+    "_id": "dd18566b-18a6-44c1-be61-626ae288f4cc",
+    "userId": "ddb32b0a-4d2c-4dc1-834b-45fe9844248a",
+    "petId": "2eb2c1b6-3c1b-4240-9a1b-15d92ccaba9c",
+    "name": "Zhuangzhuang",
+    "relation": "Neighborhood Pal",
+    "personality": "Curious & Relaxed",
+    "hobbies": [
+      "Watching nature documentaries",
+      "Sunbathing on walls"
+    ],
+    "description": "A thoughtful tabby cat who loves discovering quiet sunny spots.",
+    "avatarType": "cat",
+    "createdAt": "2026-10-08T10:13:36.331Z",
+    "updatedAt": "2026-10-08T10:13:36.333Z"
+  },
+  {
+    "_id": "b03919a9-551b-4aef-a67a-24c8e637ae36",
+    "userId": "ddb32b0a-4d2c-4dc1-834b-45fe9844248a",
+    "petId": "2eb2c1b6-3c1b-4240-9a1b-15d92ccaba9c",
+    "name": "Pippin",
+    "relation": "Playmate",
+    "personality": "Playful & Speedy",
+    "hobbies": [
+      "Chasing butterflies",
+      "Crunchy carrot tasting"
+    ],
+    "description": "A nimble bunny who loves exploring garden pathways.",
+    "avatarType": "rabbit",
+    "createdAt": "2026-10-08T10:13:36.334Z",
+    "updatedAt": "2026-10-08T10:13:36.337Z"
+  },
+  {
+    "_id": "116e9d9f-9d4c-46c7-8f9d-e9a31cd64b26",
+    "userId": "a7cde564-b850-40fd-a429-21312e52bf5c",
+    "petId": "cd8302ec-bf0d-4bfc-aa34-fc6d26c82648",
+    "name": "Max",
+    "relation": "Good Friend",
+    "personality": "Sporty & Adventurous",
+    "hobbies": [
+      "Running",
+      "Swimming",
+      "Catching frisbees"
+    ],
+    "description": "An athletic golden retriever who lives across the park and loves sprint races.",
+    "avatarType": "dog",
+    "createdAt": "2026-10-08T10:26:41.847Z",
+    "updatedAt": "2026-10-08T10:26:41.850Z"
+  },
+  {
+    "_id": "2c83a22b-9244-4532-aefc-855f195bde90",
+    "userId": "a7cde564-b850-40fd-a429-21312e52bf5c",
+    "petId": "cd8302ec-bf0d-4bfc-aa34-fc6d26c82648",
+    "name": "Zhuangzhuang",
+    "relation": "Neighborhood Pal",
+    "personality": "Curious & Relaxed",
+    "hobbies": [
+      "Watching nature documentaries",
+      "Sunbathing on walls"
+    ],
+    "description": "A thoughtful tabby cat who loves discovering quiet sunny spots.",
+    "avatarType": "cat",
+    "createdAt": "2026-10-08T10:26:41.850Z",
+    "updatedAt": "2026-10-08T10:26:41.852Z"
+  },
+  {
+    "_id": "2f7b188e-8482-4416-b533-aafc13a79ec6",
+    "userId": "a7cde564-b850-40fd-a429-21312e52bf5c",
+    "petId": "cd8302ec-bf0d-4bfc-aa34-fc6d26c82648",
+    "name": "Pippin",
+    "relation": "Playmate",
+    "personality": "Playful & Speedy",
+    "hobbies": [
+      "Chasing butterflies",
+      "Crunchy carrot tasting"
+    ],
+    "description": "A nimble bunny who loves exploring garden pathways.",
+    "avatarType": "rabbit",
+    "createdAt": "2026-10-08T10:26:41.853Z",
+    "updatedAt": "2026-10-08T10:26:41.855Z"
+  },
+  {
+    "_id": "04fc47a1-ef35-4fee-883a-6321abd7ffe3",
+    "userId": "1542748e-7056-4482-aaf8-95a26ad93120",
+    "petId": "6c91a28a-0510-4218-a5b2-090f59c80221",
+    "name": "Max",
+    "relation": "Good Friend",
+    "personality": "Sporty & Adventurous",
+    "hobbies": [
+      "Running",
+      "Swimming",
+      "Catching frisbees"
+    ],
+    "description": "An athletic golden retriever who lives across the park and loves sprint races.",
+    "avatarType": "dog",
+    "createdAt": "2026-10-08T10:35:25.551Z",
+    "updatedAt": "2026-10-08T10:35:25.552Z"
+  },
+  {
+    "_id": "ee0e0ccc-03a2-442f-b7d6-fc96b8ff28a6",
+    "userId": "1542748e-7056-4482-aaf8-95a26ad93120",
+    "petId": "6c91a28a-0510-4218-a5b2-090f59c80221",
+    "name": "Zhuangzhuang",
+    "relation": "Neighborhood Pal",
+    "personality": "Curious & Relaxed",
+    "hobbies": [
+      "Watching nature documentaries",
+      "Sunbathing on walls"
+    ],
+    "description": "A thoughtful tabby cat who loves discovering quiet sunny spots.",
+    "avatarType": "cat",
+    "createdAt": "2026-10-08T10:35:25.553Z",
+    "updatedAt": "2026-10-08T10:35:25.555Z"
+  },
+  {
+    "_id": "89c47634-ac80-4e03-870a-66b5a4af1a56",
+    "userId": "1542748e-7056-4482-aaf8-95a26ad93120",
+    "petId": "6c91a28a-0510-4218-a5b2-090f59c80221",
+    "name": "Pippin",
+    "relation": "Playmate",
+    "personality": "Playful & Speedy",
+    "hobbies": [
+      "Chasing butterflies",
+      "Crunchy carrot tasting"
+    ],
+    "description": "A nimble bunny who loves exploring garden pathways.",
+    "avatarType": "rabbit",
+    "createdAt": "2026-10-08T10:35:25.556Z",
+    "updatedAt": "2026-10-08T10:35:25.560Z"
+  },
+  {
+    "_id": "44c4e63d-d154-4907-a267-99bf1c0119c5",
+    "userId": "79e703b0-0907-4f17-ac0b-d2d194b43b71",
+    "petId": "c8fda0a9-7141-4015-b554-85f99821873a",
+    "name": "Max",
+    "relation": "Good Friend",
+    "personality": "Sporty & Adventurous",
+    "hobbies": [
+      "Running",
+      "Swimming",
+      "Catching frisbees"
+    ],
+    "description": "An athletic golden retriever who lives across the park and loves sprint races.",
+    "avatarType": "dog",
+    "createdAt": "2026-10-08T10:46:28.093Z",
+    "updatedAt": "2026-10-08T10:46:28.095Z"
+  },
+  {
+    "_id": "a45c364a-fa23-408a-9c7c-bb8944237ba6",
+    "userId": "79e703b0-0907-4f17-ac0b-d2d194b43b71",
+    "petId": "c8fda0a9-7141-4015-b554-85f99821873a",
+    "name": "Zhuangzhuang",
+    "relation": "Neighborhood Pal",
+    "personality": "Curious & Relaxed",
+    "hobbies": [
+      "Watching nature documentaries",
+      "Sunbathing on walls"
+    ],
+    "description": "A thoughtful tabby cat who loves discovering quiet sunny spots.",
+    "avatarType": "cat",
+    "createdAt": "2026-10-08T10:46:28.096Z",
+    "updatedAt": "2026-10-08T10:46:28.097Z"
+  },
+  {
+    "_id": "b4e2acf4-c522-4f4a-9514-7130bceab61f",
+    "userId": "79e703b0-0907-4f17-ac0b-d2d194b43b71",
+    "petId": "c8fda0a9-7141-4015-b554-85f99821873a",
+    "name": "Pippin",
+    "relation": "Playmate",
+    "personality": "Playful & Speedy",
+    "hobbies": [
+      "Chasing butterflies",
+      "Crunchy carrot tasting"
+    ],
+    "description": "A nimble bunny who loves exploring garden pathways.",
+    "avatarType": "rabbit",
+    "createdAt": "2026-10-08T10:46:28.098Z",
+    "updatedAt": "2026-10-08T10:46:28.100Z"
+  },
+  {
+    "_id": "f9e96f8a-05a1-404b-a586-ce5c754ccfef",
+    "userId": "c1bf1997-f9eb-40c2-bed9-f9abd644dd9f",
+    "petId": "85c9b423-44eb-41ac-8809-83c3bdef9e32",
+    "name": "Max",
+    "relation": "Good Friend",
+    "personality": "Sporty & Adventurous",
+    "hobbies": [
+      "Running",
+      "Swimming",
+      "Catching frisbees"
+    ],
+    "description": "An athletic golden retriever who lives across the park and loves sprint races.",
+    "avatarType": "dog",
+    "createdAt": "2026-10-08T10:52:42.751Z",
+    "updatedAt": "2026-10-08T10:52:42.753Z"
+  },
+  {
+    "_id": "cdfec0f4-4e7a-463b-aa38-6f320e39ad2a",
+    "userId": "c1bf1997-f9eb-40c2-bed9-f9abd644dd9f",
+    "petId": "85c9b423-44eb-41ac-8809-83c3bdef9e32",
+    "name": "Zhuangzhuang",
+    "relation": "Neighborhood Pal",
+    "personality": "Curious & Relaxed",
+    "hobbies": [
+      "Watching nature documentaries",
+      "Sunbathing on walls"
+    ],
+    "description": "A thoughtful tabby cat who loves discovering quiet sunny spots.",
+    "avatarType": "cat",
+    "createdAt": "2026-10-08T10:52:42.754Z",
+    "updatedAt": "2026-10-08T10:52:42.756Z"
+  },
+  {
+    "_id": "c8a1006d-3fea-429c-9134-1a6841f591f0",
+    "userId": "c1bf1997-f9eb-40c2-bed9-f9abd644dd9f",
+    "petId": "85c9b423-44eb-41ac-8809-83c3bdef9e32",
+    "name": "Pippin",
+    "relation": "Playmate",
+    "personality": "Playful & Speedy",
+    "hobbies": [
+      "Chasing butterflies",
+      "Crunchy carrot tasting"
+    ],
+    "description": "A nimble bunny who loves exploring garden pathways.",
+    "avatarType": "rabbit",
+    "createdAt": "2026-10-08T10:52:42.757Z",
+    "updatedAt": "2026-10-08T10:52:42.759Z"
+  },
+  {
+    "_id": "95d5e642-97f7-44d2-85a7-c2d9f389e0ac",
+    "userId": "2326170a-2908-4f3a-b2e2-55e81e5b7d38",
+    "petId": "51ca9bfe-38f0-47c4-99fa-ea50321ce269",
+    "name": "Max",
+    "relation": "Good Friend",
+    "personality": "Sporty & Adventurous",
+    "hobbies": [
+      "Running",
+      "Swimming",
+      "Catching frisbees"
+    ],
+    "description": "An athletic golden retriever who lives across the park and loves sprint races.",
+    "avatarType": "dog",
+    "createdAt": "2026-10-08T11:04:12.641Z",
+    "updatedAt": "2026-10-08T11:04:12.643Z"
+  },
+  {
+    "_id": "a9e3629e-813e-4f02-9547-fbb22b112c7e",
+    "userId": "2326170a-2908-4f3a-b2e2-55e81e5b7d38",
+    "petId": "51ca9bfe-38f0-47c4-99fa-ea50321ce269",
+    "name": "Zhuangzhuang",
+    "relation": "Neighborhood Pal",
+    "personality": "Curious & Relaxed",
+    "hobbies": [
+      "Watching nature documentaries",
+      "Sunbathing on walls"
+    ],
+    "description": "A thoughtful tabby cat who loves discovering quiet sunny spots.",
+    "avatarType": "cat",
+    "createdAt": "2026-10-08T11:04:12.644Z",
+    "updatedAt": "2026-10-08T11:04:12.646Z"
+  },
+  {
+    "_id": "387c6585-3bc0-499a-866e-2ab0405f1e17",
+    "userId": "2326170a-2908-4f3a-b2e2-55e81e5b7d38",
+    "petId": "51ca9bfe-38f0-47c4-99fa-ea50321ce269",
+    "name": "Pippin",
+    "relation": "Playmate",
+    "personality": "Playful & Speedy",
+    "hobbies": [
+      "Chasing butterflies",
+      "Crunchy carrot tasting"
+    ],
+    "description": "A nimble bunny who loves exploring garden pathways.",
+    "avatarType": "rabbit",
+    "createdAt": "2026-10-08T11:04:12.647Z",
+    "updatedAt": "2026-10-08T11:04:12.649Z"
+  },
+  {
+    "_id": "f24ca240-57a1-4f43-b34c-2666a65a5cfa",
+    "userId": "d477e3f6-5932-4345-994b-efa49f7f1ed8",
+    "petId": "745ef1b6-0506-4641-b815-9f493f49431d",
+    "name": "Max",
+    "relation": "Good Friend",
+    "personality": "Sporty & Adventurous",
+    "hobbies": [
+      "Running",
+      "Swimming",
+      "Catching frisbees"
+    ],
+    "description": "An athletic golden retriever who lives across the park and loves sprint races.",
+    "avatarType": "dog",
+    "createdAt": "2026-10-08T11:32:24.825Z",
+    "updatedAt": "2026-10-08T11:32:24.826Z"
+  },
+  {
+    "_id": "e4499d7e-7021-484d-bb0f-47d112c7c590",
+    "userId": "d477e3f6-5932-4345-994b-efa49f7f1ed8",
+    "petId": "745ef1b6-0506-4641-b815-9f493f49431d",
+    "name": "Zhuangzhuang",
+    "relation": "Neighborhood Pal",
+    "personality": "Curious & Relaxed",
+    "hobbies": [
+      "Watching nature documentaries",
+      "Sunbathing on walls"
+    ],
+    "description": "A thoughtful tabby cat who loves discovering quiet sunny spots.",
+    "avatarType": "cat",
+    "createdAt": "2026-10-08T11:32:24.827Z",
+    "updatedAt": "2026-10-08T11:32:24.829Z"
+  },
+  {
+    "_id": "6a5feb37-6a9d-4577-9214-8cfc0ea71885",
+    "userId": "d477e3f6-5932-4345-994b-efa49f7f1ed8",
+    "petId": "745ef1b6-0506-4641-b815-9f493f49431d",
+    "name": "Pippin",
+    "relation": "Playmate",
+    "personality": "Playful & Speedy",
+    "hobbies": [
+      "Chasing butterflies",
+      "Crunchy carrot tasting"
+    ],
+    "description": "A nimble bunny who loves exploring garden pathways.",
+    "avatarType": "rabbit",
+    "createdAt": "2026-10-08T11:32:24.830Z",
+    "updatedAt": "2026-10-08T11:32:24.833Z"
+  },
+  {
+    "_id": "fbdce224-3060-41dc-b5bd-7a5fa5ba59e2",
+    "userId": "f16db18c-3a8b-4b3e-a4e1-dc90ec049aff",
+    "petId": "d171b721-1f74-48c3-a54f-885d6af52556",
+    "name": "Max",
+    "relation": "Good Friend",
+    "personality": "Sporty & Adventurous",
+    "hobbies": [
+      "Running",
+      "Swimming",
+      "Catching frisbees"
+    ],
+    "description": "An athletic golden retriever who lives across the park and loves sprint races.",
+    "avatarType": "dog",
+    "createdAt": "2026-10-08T16:04:29.582Z",
+    "updatedAt": "2026-10-08T16:04:29.584Z"
+  },
+  {
+    "_id": "acac1d5a-b890-48a9-899b-d3ca32b5e984",
+    "userId": "f16db18c-3a8b-4b3e-a4e1-dc90ec049aff",
+    "petId": "d171b721-1f74-48c3-a54f-885d6af52556",
+    "name": "Zhuangzhuang",
+    "relation": "Neighborhood Pal",
+    "personality": "Curious & Relaxed",
+    "hobbies": [
+      "Watching nature documentaries",
+      "Sunbathing on walls"
+    ],
+    "description": "A thoughtful tabby cat who loves discovering quiet sunny spots.",
+    "avatarType": "cat",
+    "createdAt": "2026-10-08T16:04:29.585Z",
+    "updatedAt": "2026-10-08T16:04:29.587Z"
+  },
+  {
+    "_id": "2f126417-fec9-49da-a066-353a6a4e1b2e",
+    "userId": "f16db18c-3a8b-4b3e-a4e1-dc90ec049aff",
+    "petId": "d171b721-1f74-48c3-a54f-885d6af52556",
+    "name": "Pippin",
+    "relation": "Playmate",
+    "personality": "Playful & Speedy",
+    "hobbies": [
+      "Chasing butterflies",
+      "Crunchy carrot tasting"
+    ],
+    "description": "A nimble bunny who loves exploring garden pathways.",
+    "avatarType": "rabbit",
+    "createdAt": "2026-10-08T16:04:29.588Z",
+    "updatedAt": "2026-10-08T16:04:29.590Z"
+  }
+]

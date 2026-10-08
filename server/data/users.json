@@ -1,0 +1,899 @@
+[
+  {
+    "_id": "8fde3805-ab84-4035-b7e0-1b8141d45fde",
+    "username": "test_master",
+    "email": "master_1791378380033@example.com",
+    "password": "hashedpassword",
+    "name": "Super Programmer",
+    "interests": [
+      "reading sci-fi",
+      "programming",
+      "parks"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-07T13:06:20.033Z",
+    "updatedAt": "2026-10-07T13:06:20.038Z"
+  },
+  {
+    "_id": "4e80215b-987f-43c3-8bbc-261ac39ec2c2",
+    "username": "master_9268",
+    "email": "master_9268@ipet.demo",
+    "password": "$2a$10$j.4HnTRojheQDbhr.prsEefQ2pnsOjDBvPEvZVptfGv.E12RqB08m",
+    "name": "Super Programmer",
+    "interests": [
+      "reading sci-fi",
+      "programming",
+      "parks"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-07T13:20:09.586Z",
+    "updatedAt": "2026-10-07T13:20:09.587Z"
+  },
+  {
+    "_id": "a099be5e-8b94-49ec-b8ea-5238ebefb462",
+    "username": "master_0128",
+    "email": "master_0128@ipet.demo",
+    "password": "$2a$10$YmL4e6bVr9UwsAaBV8Hodetbz.UBIr.zyIorxOEQTs132XZmDalBC",
+    "name": "Super Programmer",
+    "interests": [
+      "reading sci-fi",
+      "programming",
+      "parks"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-07T13:22:00.251Z",
+    "updatedAt": "2026-10-07T13:22:00.251Z"
+  },
+  {
+    "_id": "ebc6d3d9-a687-4d0d-a358-515fd3b05f65",
+    "username": "master_7752",
+    "email": "master_7752@ipet.demo",
+    "password": "$2a$10$FsGvpXuRihakpScEWTLokO3LPg0kf7k2B2gFPdIJsjkRFyhD1R6Ya",
+    "name": "Super Programmer",
+    "interests": [
+      "reading sci-fi",
+      "programming",
+      "parks"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-07T13:26:37.920Z",
+    "updatedAt": "2026-10-07T13:26:37.921Z"
+  },
+  {
+    "_id": "1607cfd8-db6f-42c0-991a-d0e57f71ed56",
+    "username": "amma",
+    "email": "amma@gmail.com",
+    "password": "$2a$10$JWi9JRBSCwcUXM88M5SVkeYqP2iFnwPBD8SLokXyqd22iLTB6tCre",
+    "name": "amma",
+    "interests": [
+      "reading",
+      "music",
+      "programming"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-07T13:28:18.970Z",
+    "updatedAt": "2026-10-07T13:28:18.970Z"
+  },
+  {
+    "_id": "ea2406a3-3f29-4dac-a2f9-41f40a35e56d",
+    "username": "amma123",
+    "email": "amma123@gmail.com",
+    "password": "$2a$10$49bhtME/qAMdNrPCtWRq.eqBuTDE5LRBlMuCZPO/qP0RXg9sgtT1G",
+    "name": "amma123",
+    "interests": [
+      "reading",
+      "music",
+      "programming"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-07T13:28:59.631Z",
+    "updatedAt": "2026-10-07T13:28:59.632Z"
+  },
+  {
+    "_id": "f8c10039-3ea7-456f-af61-f0d1497869ff",
+    "username": "test_master",
+    "email": "master_1791380914788@example.com",
+    "password": "hashedpassword",
+    "name": "Super Programmer",
+    "interests": [
+      "reading sci-fi",
+      "programming",
+      "parks"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-07T13:48:34.788Z",
+    "updatedAt": "2026-10-07T13:48:34.791Z"
+  },
+  {
+    "_id": "8bc8f8c6-17bd-4259-9a45-4c365c9d31fa",
+    "username": "Akshitha",
+    "email": "akshithau1@gmail.com",
+    "password": "$2a$10$EPi1JxV15ncU2XYN/s9CsefGucvSYBFY3CF7di/9axBMxBlkf4oVS",
+    "name": "Akshitha",
+    "interests": [
+      "reading",
+      "music",
+      "programming"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-07T13:51:56.423Z",
+    "updatedAt": "2026-10-07T13:51:56.424Z"
+  },
+  {
+    "_id": "cbbe380b-bceb-4c71-8788-6acfa7c1b4d7",
+    "username": "test_master",
+    "email": "master_1791381870678@example.com",
+    "password": "hashedpassword",
+    "name": "Super Programmer",
+    "interests": [
+      "reading sci-fi",
+      "programming",
+      "parks"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-07T14:04:30.678Z",
+    "updatedAt": "2026-10-07T14:04:30.680Z"
+  },
+  {
+    "_id": "820bee86-777a-4657-ab95-d79319e185d6",
+    "username": "master_4324",
+    "email": "master_4324@ipet.demo",
+    "password": "$2a$10$v/6D5Z.5LQWtAstOA6BXuevwCefnFOiWI8aQnWuafHnAvjI76nLf.",
+    "name": "Super Programmer",
+    "interests": [
+      "reading sci-fi",
+      "programming",
+      "parks"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-07T14:06:44.492Z",
+    "updatedAt": "2026-10-07T14:06:44.492Z"
+  },
+  {
+    "_id": "5d7b405e-9cf9-44d3-810d-e8994a707f08",
+    "username": "sneha",
+    "email": "snehalathareddy24680@gmail.com",
+    "password": "$2a$10$yRQ6h6dt3JCd1r2r90lWsukwyamddviX287aPBbTaF.2KbJsYuuAW",
+    "name": "sneha",
+    "interests": [
+      "reading",
+      "music",
+      "programming"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-07T15:51:34.346Z",
+    "updatedAt": "2026-10-07T15:51:34.347Z"
+  },
+  {
+    "_id": "00ed5276-0a05-439c-8307-77b5afa40d0a",
+    "username": "test_master",
+    "email": "master_1791392956812@example.com",
+    "password": "hashedpassword",
+    "name": "Super Programmer",
+    "interests": [
+      "reading sci-fi",
+      "programming",
+      "parks"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-07T17:09:16.812Z",
+    "updatedAt": "2026-10-07T17:09:16.821Z"
+  },
+  {
+    "_id": "e2636f0a-fd56-48ef-ad5d-36a2c6f4d8b4",
+    "username": "test_master",
+    "email": "master_1791392999434@example.com",
+    "password": "hashedpassword",
+    "name": "Super Programmer",
+    "interests": [
+      "reading sci-fi",
+      "programming",
+      "parks"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-07T17:09:59.434Z",
+    "updatedAt": "2026-10-07T17:09:59.435Z"
+  },
+  {
+    "_id": "b0b54302-f99c-4316-9615-161d7b160145",
+    "username": "master_4615",
+    "email": "master_4615@ipet.demo",
+    "password": "$2a$10$0vUls/5/yAMMPKAmsCIbgOACVXmiY.cE5alUbjAqnHMLIW6rlUiLu",
+    "name": "Super Programmer",
+    "interests": [
+      "reading sci-fi",
+      "programming",
+      "parks"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-07T17:10:14.742Z",
+    "updatedAt": "2026-10-07T17:10:14.743Z"
+  },
+  {
+    "_id": "bc52bdcb-5eb3-43b7-97ff-7f6ed20bbf3d",
+    "username": "master_7326",
+    "email": "master_7326@ipet.demo",
+    "password": "$2a$10$6G59gmknJEkUaNwHteyQCel3sd5/sFRQdQNtnYQcFmF8ScQV5.zUe",
+    "name": "Super Programmer",
+    "interests": [
+      "reading sci-fi",
+      "programming",
+      "parks"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-07T17:10:27.451Z",
+    "updatedAt": "2026-10-07T17:10:27.452Z"
+  },
+  {
+    "_id": "882255e0-8b9b-4106-9e7c-2a8e17a05232",
+    "username": "master_9921",
+    "email": "master_9921@ipet.demo",
+    "password": "$2a$10$5CSpiaJc3DKZZqvC6W27D.rkubg/HK4qrIgC9vj/FufPLDFPUKa9S",
+    "name": "Super Programmer",
+    "interests": [
+      "reading sci-fi",
+      "programming",
+      "parks"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-07T17:11:20.050Z",
+    "updatedAt": "2026-10-07T17:11:20.051Z"
+  },
+  {
+    "_id": "df15df29-bbeb-458d-bbdb-d27970ffe5d6",
+    "username": "Akshitha",
+    "email": "akshithau111@gmail.com",
+    "password": "$2a$10$1UEzlMYgSjoO/32oGAqu1udOENoAfikIjSD1kD13glWgYQuKCxxQe",
+    "name": "Akshitha",
+    "interests": [
+      "reading",
+      "music",
+      "programming"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-07T17:13:24.170Z",
+    "updatedAt": "2026-10-07T17:13:24.171Z"
+  },
+  {
+    "_id": "1c30f734-5f8e-4574-a11d-631d7ba7b374",
+    "username": "Akshitha",
+    "email": "akshitha@pawmate.com",
+    "password": "$2a$10$ZLxbAuNV8i1B.ygOGRbpnuop96vFTPVH6Je/pjErm8SbCHsq.NnpO",
+    "name": "Akshitha",
+    "interests": [
+      "reading",
+      "music",
+      "programming"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-07T17:21:01.815Z",
+    "updatedAt": "2026-10-07T17:21:01.816Z"
+  },
+  {
+    "_id": "5b07ad25-0a2c-4509-bf4d-db3ea7ffc07f",
+    "username": "test_master",
+    "email": "master_1791394056183@example.com",
+    "password": "hashedpassword",
+    "name": "Super Programmer",
+    "interests": [
+      "reading sci-fi",
+      "programming",
+      "parks"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-07T17:27:36.183Z",
+    "updatedAt": "2026-10-07T17:27:36.185Z"
+  },
+  {
+    "_id": "808c5d70-3bac-45e2-982e-7067b066b9b7",
+    "username": "test_master",
+    "email": "master_1791394623927@example.com",
+    "password": "hashedpassword",
+    "name": "Super Programmer",
+    "interests": [
+      "reading sci-fi",
+      "programming",
+      "parks"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-07T17:37:03.927Z",
+    "updatedAt": "2026-10-07T17:37:03.928Z"
+  },
+  {
+    "_id": "23110949-4854-40f4-babe-da0cb7171473",
+    "username": "akki",
+    "email": "akki@gmail.com",
+    "password": "$2a$10$8BDf34RUZgtyBgLJDZwr5uf2YLgy42RvdJf6Jdy9giT7aq5Epn8fG",
+    "name": "akki",
+    "interests": [
+      "reading",
+      "music",
+      "programming"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-07T17:45:35.443Z",
+    "updatedAt": "2026-10-07T17:45:35.445Z"
+  },
+  {
+    "_id": "0eaa7c5d-38df-4ea3-b015-d246f7921f2e",
+    "username": "test_master",
+    "email": "master_1791430372213@example.com",
+    "password": "hashedpassword",
+    "name": "Super Programmer",
+    "interests": [
+      "reading sci-fi",
+      "programming",
+      "parks"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-08T03:32:52.213Z",
+    "updatedAt": "2026-10-08T03:32:52.217Z"
+  },
+  {
+    "_id": "27c09989-13f0-462b-bbda-24698f1f5507",
+    "username": "test_master",
+    "email": "master_1791447117677@example.com",
+    "password": "hashedpassword",
+    "name": "Super Programmer",
+    "interests": [
+      "reading sci-fi",
+      "programming",
+      "parks"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-08T08:11:57.677Z",
+    "updatedAt": "2026-10-08T08:11:57.691Z"
+  },
+  {
+    "_id": "865af014-af06-459a-892f-0e1612dcf6f6",
+    "username": "test_master",
+    "email": "master_1791449581281@example.com",
+    "password": "hashedpassword",
+    "name": "Super Programmer",
+    "interests": [
+      "reading sci-fi",
+      "programming",
+      "parks"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-08T08:53:01.281Z",
+    "updatedAt": "2026-10-08T08:53:01.285Z"
+  },
+  {
+    "_id": "ddb32b0a-4d2c-4dc1-834b-45fe9844248a",
+    "username": "test_master",
+    "email": "master_1791454412081@example.com",
+    "password": "hashedpassword",
+    "name": "Super Programmer",
+    "interests": [
+      "reading sci-fi",
+      "programming",
+      "parks"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-08T10:13:32.081Z",
+    "updatedAt": "2026-10-08T10:13:32.118Z"
+  },
+  {
+    "_id": "a7cde564-b850-40fd-a429-21312e52bf5c",
+    "username": "test_master",
+    "email": "master_1791455198080@example.com",
+    "password": "hashedpassword",
+    "name": "Super Programmer",
+    "interests": [
+      "reading sci-fi",
+      "programming",
+      "parks"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-08T10:26:38.081Z",
+    "updatedAt": "2026-10-08T10:26:38.118Z"
+  },
+  {
+    "_id": "1542748e-7056-4482-aaf8-95a26ad93120",
+    "username": "e2e_tester_1791455718733",
+    "email": "e2e_1791455718733@example.com",
+    "password": "password123",
+    "name": "e2e_tester_1791455718733",
+    "interests": [
+      "coding",
+      "sci-fi"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-08T10:35:18.734Z",
+    "updatedAt": "2026-10-08T10:35:18.771Z"
+  },
+  {
+    "_id": "79e703b0-0907-4f17-ac0b-d2d194b43b71",
+    "username": "test_master",
+    "email": "master_1791456386938@example.com",
+    "password": "hashedpassword",
+    "name": "Super Programmer",
+    "interests": [
+      "reading sci-fi",
+      "programming",
+      "parks"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-08T10:46:26.939Z",
+    "updatedAt": "2026-10-08T10:46:26.947Z"
+  },
+  {
+    "_id": "c1bf1997-f9eb-40c2-bed9-f9abd644dd9f",
+    "username": "e2e_tester_1791456756460",
+    "email": "e2e_1791456756460@example.com",
+    "password": "password123",
+    "name": "e2e_tester_1791456756460",
+    "interests": [
+      "coding",
+      "sci-fi"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-08T10:52:36.460Z",
+    "updatedAt": "2026-10-08T10:52:36.503Z"
+  },
+  {
+    "_id": "2326170a-2908-4f3a-b2e2-55e81e5b7d38",
+    "username": "lucy",
+    "email": "paw@gmail.com",
+    "password": "$2a$10$euzbFHLuRYHftk1U8jvboOPX8Thx.svVHzV4zDHyyBD3ZaC40U7rG",
+    "name": "lucy",
+    "interests": [
+      "reading",
+      "music",
+      "programming"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-08T11:03:44.292Z",
+    "updatedAt": "2026-10-08T11:03:44.295Z"
+  },
+  {
+    "_id": "d477e3f6-5932-4345-994b-efa49f7f1ed8",
+    "username": "test_owner",
+    "name": "Alex",
+    "interests": [
+      "reading",
+      "music",
+      "programming"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-08T11:32:24.595Z",
+    "updatedAt": "2026-10-08T11:32:24.643Z"
+  },
+  {
+    "_id": "5adf3dd5-fe53-4a9b-bf18-03d8d92073e3",
+    "username": "alex_test",
+    "name": "Alex",
+    "interests": [
+      "reading",
+      "music",
+      "programming"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-08T11:35:04.178Z",
+    "updatedAt": "2026-10-08T11:35:04.182Z"
+  },
+  {
+    "_id": "2677afc5-f811-4ab3-9a3d-7863dc77fce5",
+    "username": "alex_test",
+    "name": "Alex",
+    "interests": [
+      "reading",
+      "music",
+      "programming"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-08T11:35:42.933Z",
+    "updatedAt": "2026-10-08T11:35:42.939Z"
+  },
+  {
+    "_id": "8eea50e7-bf9a-456e-a3d2-97bee7d803ef",
+    "username": "bunny_lover",
+    "name": "Alex",
+    "interests": [
+      "reading",
+      "music",
+      "programming"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-08T11:58:48.567Z",
+    "updatedAt": "2026-10-08T11:58:48.579Z"
+  },
+  {
+    "_id": "4a791e43-f454-46a5-a74b-0781f43454df",
+    "username": "bunny_lover",
+    "name": "Alex",
+    "interests": [
+      "reading",
+      "music",
+      "programming"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-08T12:02:23.608Z",
+    "updatedAt": "2026-10-08T12:02:23.675Z"
+  },
+  {
+    "_id": "8f361a3f-0f8f-48b7-985a-ba6ccbd90ebf",
+    "username": "bunny_lover",
+    "name": "Alex",
+    "interests": [
+      "reading",
+      "music",
+      "programming"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-08T12:04:35.678Z",
+    "updatedAt": "2026-10-08T12:04:35.681Z"
+  },
+  {
+    "_id": "283bdb48-b534-464a-8166-4e0159eb2ce4",
+    "username": "bunny_lover",
+    "name": "Alex",
+    "interests": [
+      "reading",
+      "music",
+      "programming"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-08T12:15:49.290Z",
+    "updatedAt": "2026-10-08T12:15:49.294Z"
+  },
+  {
+    "_id": "a4f09a49-8896-46c7-beaf-965dc47a1322",
+    "username": "bunny_lover",
+    "name": "Alex",
+    "interests": [
+      "reading",
+      "music",
+      "programming"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-08T12:17:57.261Z",
+    "updatedAt": "2026-10-08T12:17:57.266Z"
+  },
+  {
+    "_id": "18c90a81-406b-4d76-b1ea-393ab58a4c56",
+    "username": "bunny_lover",
+    "name": "Alex",
+    "interests": [
+      "reading",
+      "music",
+      "programming"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-08T12:40:53.765Z",
+    "updatedAt": "2026-10-08T12:40:53.802Z"
+  },
+  {
+    "_id": "2e0bc65b-638e-49f5-9b9c-4077c09b8ff7",
+    "username": "bunny_lover",
+    "name": "Alex",
+    "interests": [
+      "reading",
+      "music",
+      "programming"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-08T12:44:51.138Z",
+    "updatedAt": "2026-10-08T12:44:51.141Z"
+  },
+  {
+    "_id": "e8135a3d-a271-402f-82e9-906eb475e582",
+    "username": "bunny_lover",
+    "name": "Alex",
+    "interests": [
+      "reading",
+      "music",
+      "programming"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-08T13:12:01.839Z",
+    "updatedAt": "2026-10-08T13:12:01.846Z"
+  },
+  {
+    "_id": "253f2b83-8628-4227-9972-0aa91abab506",
+    "username": "diary_tester",
+    "name": "Tester",
+    "interests": [
+      "reading",
+      "music",
+      "programming"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-08T13:20:26.694Z",
+    "updatedAt": "2026-10-08T13:20:26.699Z"
+  },
+  {
+    "_id": "9662df66-d8ed-4d80-9634-e5d39e203a08",
+    "username": "bunny_lover",
+    "name": "Alex",
+    "interests": [
+      "reading",
+      "music",
+      "programming"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-08T13:25:19.767Z",
+    "updatedAt": "2026-10-08T13:25:19.801Z"
+  },
+  {
+    "_id": "e47e4813-9c3d-4e7b-9cf3-cbf4ac8ee3e0",
+    "username": "testuser_1791466857241",
+    "email": "testuser_1791466857241@test.com",
+    "name": "Alex",
+    "interests": [
+      "reading",
+      "music",
+      "programming"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-08T13:40:57.241Z",
+    "updatedAt": "2026-10-08T13:40:57.260Z"
+  },
+  {
+    "_id": "460d34e1-61b3-466c-a9de-7d6b495dfec8",
+    "username": "testuser_1791467052433",
+    "email": "testuser_1791467052433@test.com",
+    "name": "Alex",
+    "interests": [
+      "reading",
+      "music",
+      "programming"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-08T13:44:12.433Z",
+    "updatedAt": "2026-10-08T13:44:12.442Z"
+  },
+  {
+    "_id": "3d324260-d078-4dce-a968-e6e7d4b5e808",
+    "username": "mem_tester_1791467579838",
+    "name": "Alex",
+    "interests": [
+      "reading",
+      "music",
+      "programming"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-08T13:52:59.839Z",
+    "updatedAt": "2026-10-08T13:52:59.850Z"
+  },
+  {
+    "_id": "b726d72b-6bd9-40e0-b6a5-b5820b2cfa34",
+    "username": "mem_tester_1791468173509",
+    "email": "mem_tester_1791468173509@test.com",
+    "name": "Alex",
+    "interests": [
+      "reading",
+      "music",
+      "programming"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-08T14:02:53.509Z",
+    "updatedAt": "2026-10-08T14:02:53.561Z"
+  },
+  {
+    "_id": "e29d2438-baee-46a2-a260-e85f8bfbb6e0",
+    "username": "mem_tester_1791470740534",
+    "email": "mem_tester_1791470740534@test.com",
+    "name": "Alex",
+    "interests": [
+      "reading",
+      "music",
+      "programming"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-08T14:45:40.534Z",
+    "updatedAt": "2026-10-08T14:45:40.841Z"
+  },
+  {
+    "_id": "f16db18c-3a8b-4b3e-a4e1-dc90ec049aff",
+    "username": "tinku",
+    "email": "tinku@gmail.com",
+    "password": "$2a$10$R/yPruJmAeHbSyEu8fw22uhcSH.l2KKCg8L1l8uNBxYdqx.42qf6q",
+    "name": "tinku",
+    "interests": [
+      "reading",
+      "music",
+      "programming"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-08T16:03:52.467Z",
+    "updatedAt": "2026-10-08T16:03:52.468Z"
+  },
+  {
+    "_id": "b7007b67-6fde-4815-b27c-382ca7f25b16",
+    "username": "paper_test_1791476793725",
+    "name": "Yash",
+    "interests": [
+      "reading",
+      "music",
+      "programming"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-08T16:26:33.725Z",
+    "updatedAt": "2026-10-08T16:26:33.729Z"
+  },
+  {
+    "_id": "995a7d83-1c8b-45e9-b8e5-f0de62f2c6ee",
+    "username": "mem_tester_1791476818022",
+    "email": "mem_tester_1791476818022@test.com",
+    "name": "Alex",
+    "interests": [
+      "reading",
+      "music",
+      "programming"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-08T16:26:58.022Z",
+    "updatedAt": "2026-10-08T16:26:58.028Z"
+  },
+  {
+    "_id": "ace78654-5b50-4081-ab0a-b8e9846abb6b",
+    "username": "session_tester_1791477122780",
+    "name": "Yash",
+    "interests": [
+      "reading",
+      "music",
+      "programming"
+    ],
+    "preferences": {
+      "favoriteFood": "pasta",
+      "leisure": "park strolls"
+    },
+    "createdAt": "2026-10-08T16:32:02.781Z",
+    "updatedAt": "2026-10-08T16:32:02.784Z"
+  }
+]

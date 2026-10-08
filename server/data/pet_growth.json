@@ -1,0 +1,862 @@
+[
+  {
+    "_id": "1c8a536b-430f-4cbc-a17f-a56dc29fd758",
+    "petId": "0394aa05-c4c6-4e99-8a3a-24d57728e558",
+    "userId": "8fde3805-ab84-4035-b7e0-1b8141d45fde",
+    "xp": 82,
+    "level": 3,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 5,
+      "cooking": 5,
+      "social": 19,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-07T17:36:46.613Z",
+    "createdAt": "2026-10-07T13:06:20.239Z",
+    "updatedAt": "2026-10-07T17:36:46.613Z"
+  },
+  {
+    "_id": "ed5a5ed6-6ebf-4be3-9547-c8534762fa59",
+    "petId": "7f61d929-1469-433a-9316-3ae937a951a1",
+    "userId": "4e80215b-987f-43c3-8bbc-261ac39ec2c2",
+    "xp": 52,
+    "level": 2,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 8,
+      "cooking": 5,
+      "social": 7,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-07T13:20:09.651Z",
+    "createdAt": "2026-10-07T13:20:09.618Z",
+    "updatedAt": "2026-10-07T13:20:09.745Z"
+  },
+  {
+    "_id": "144b5bc3-34bf-43e0-8de4-598fcb009039",
+    "petId": "1c4c0e09-40e7-4067-aa40-ccb76c86dd87",
+    "userId": "a099be5e-8b94-49ec-b8ea-5238ebefb462",
+    "xp": 52,
+    "level": 2,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 8,
+      "cooking": 5,
+      "social": 7,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-07T13:22:00.318Z",
+    "createdAt": "2026-10-07T13:22:00.283Z",
+    "updatedAt": "2026-10-07T13:22:00.438Z"
+  },
+  {
+    "_id": "ff6dc422-4bef-40b2-9c3f-bd3f2b237800",
+    "petId": "22f77d56-80ed-481a-b06e-221823a683cf",
+    "userId": "ebc6d3d9-a687-4d0d-a358-515fd3b05f65",
+    "xp": 52,
+    "level": 2,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 8,
+      "cooking": 5,
+      "social": 7,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-07T13:26:38.004Z",
+    "createdAt": "2026-10-07T13:26:37.963Z",
+    "updatedAt": "2026-10-07T13:26:38.152Z"
+  },
+  {
+    "_id": "c3ee6bc6-5555-4882-99df-1b142ae0b8b8",
+    "petId": "eecc5306-d173-4906-8a90-ba0e3d61a4a8",
+    "userId": "1607cfd8-db6f-42c0-991a-d0e57f71ed56",
+    "xp": 40,
+    "level": 1,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 5,
+      "cooking": 5,
+      "social": 5,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-07T13:28:26.485Z",
+    "createdAt": "2026-10-07T13:28:26.485Z",
+    "updatedAt": "2026-10-07T13:28:26.485Z"
+  },
+  {
+    "_id": "8ac852e5-4d9f-46f5-b71d-75af35f063b0",
+    "petId": "72df5935-a90a-4b51-8785-22eae0a3895e",
+    "userId": "ea2406a3-3f29-4dac-a2f9-41f40a35e56d",
+    "xp": 71,
+    "level": 2,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 11,
+      "cooking": 7,
+      "social": 10,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-07T13:29:31.693Z",
+    "createdAt": "2026-10-07T13:29:21.850Z",
+    "updatedAt": "2026-10-07T13:30:43.650Z"
+  },
+  {
+    "_id": "eb071c5c-abd3-4c67-9dd6-4389d299297f",
+    "petId": "2bb6e3dd-3bd9-4be8-b82f-b2fe05060810",
+    "userId": "f8c10039-3ea7-456f-af61-f0d1497869ff",
+    "xp": 43,
+    "level": 2,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 5,
+      "cooking": 5,
+      "social": 6,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-07T13:48:34.854Z",
+    "createdAt": "2026-10-07T13:48:34.841Z",
+    "updatedAt": "2026-10-07T13:48:34.855Z"
+  },
+  {
+    "_id": "25123082-584a-4ff9-9468-1a20636774cf",
+    "petId": "9d996bce-5f68-4971-8da2-3a6385b99c87",
+    "userId": "8bc8f8c6-17bd-4259-9a45-4c365c9d31fa",
+    "xp": 79,
+    "level": 2,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 20,
+      "cooking": 5,
+      "social": 8,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-07T13:52:40.399Z",
+    "createdAt": "2026-10-07T13:52:21.312Z",
+    "updatedAt": "2026-10-07T15:33:59.359Z"
+  },
+  {
+    "_id": "995a5367-a961-4264-8eaa-8b8bb79095f3",
+    "petId": "99033910-a13a-4a0c-8521-e7926a365d18",
+    "userId": "cbbe380b-bceb-4c71-8788-6acfa7c1b4d7",
+    "xp": 43,
+    "level": 2,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 5,
+      "cooking": 5,
+      "social": 6,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-07T14:04:30.730Z",
+    "createdAt": "2026-10-07T14:04:30.724Z",
+    "updatedAt": "2026-10-07T14:04:30.731Z"
+  },
+  {
+    "_id": "aa226d6a-372b-468e-9cf9-3aab72d487ce",
+    "petId": "9f04829e-8433-4f46-9adf-855841a345fb",
+    "userId": "820bee86-777a-4657-ab95-d79319e185d6",
+    "xp": 52,
+    "level": 2,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 8,
+      "cooking": 5,
+      "social": 7,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-07T14:06:44.570Z",
+    "createdAt": "2026-10-07T14:06:44.524Z",
+    "updatedAt": "2026-10-07T14:06:44.720Z"
+  },
+  {
+    "_id": "c676e29a-6e60-4072-9ad2-bd50eaf8788f",
+    "petId": "9c5671e0-e2f3-44f3-ac72-343225879118",
+    "userId": "5d7b405e-9cf9-44d3-810d-e8994a707f08",
+    "xp": 199,
+    "level": 4,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 23,
+      "cooking": 65,
+      "social": 6,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-07T16:45:33.312Z",
+    "createdAt": "2026-10-07T15:54:18.583Z",
+    "updatedAt": "2026-10-08T02:41:03.435Z"
+  },
+  {
+    "_id": "a73e52b4-6166-44ff-b04f-42d6262b8451",
+    "petId": "5cd18486-718d-42e8-b61a-5841c44d1719",
+    "userId": "e2636f0a-fd56-48ef-ad5d-36a2c6f4d8b4",
+    "xp": 43,
+    "level": 2,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 5,
+      "cooking": 5,
+      "social": 6,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-07T17:09:59.555Z",
+    "createdAt": "2026-10-07T17:09:59.547Z",
+    "updatedAt": "2026-10-07T17:09:59.555Z"
+  },
+  {
+    "_id": "6492683f-642a-4a56-98c1-61e1fab70ba2",
+    "petId": "d5e87f74-bd0b-4446-a10d-fe67185e7d24",
+    "userId": "b0b54302-f99c-4316-9615-161d7b160145",
+    "xp": 43,
+    "level": 2,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 5,
+      "cooking": 5,
+      "social": 6,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-07T17:10:14.855Z",
+    "createdAt": "2026-10-07T17:10:14.769Z",
+    "updatedAt": "2026-10-07T17:10:14.857Z"
+  },
+  {
+    "_id": "e616d12d-bf1b-4dc7-937a-fead40938410",
+    "petId": "cf911bbc-7acf-48ef-8edb-e150d853e4da",
+    "userId": "bc52bdcb-5eb3-43b7-97ff-7f6ed20bbf3d",
+    "xp": 46,
+    "level": 2,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 5,
+      "cooking": 5,
+      "social": 7,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-07T17:10:27.566Z",
+    "createdAt": "2026-10-07T17:10:27.479Z",
+    "updatedAt": "2026-10-07T17:10:27.602Z"
+  },
+  {
+    "_id": "fbd9d634-b811-4661-a501-6f755e93b261",
+    "petId": "055bf455-74b3-4a10-8f54-120630dab976",
+    "userId": "882255e0-8b9b-4106-9e7c-2a8e17a05232",
+    "xp": 52,
+    "level": 2,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 8,
+      "cooking": 5,
+      "social": 7,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-07T17:11:20.173Z",
+    "createdAt": "2026-10-07T17:11:20.080Z",
+    "updatedAt": "2026-10-07T17:11:20.462Z"
+  },
+  {
+    "_id": "06ecc021-b2d1-474f-8c24-c205376928d1",
+    "petId": "f063f1a0-3585-4c9f-befa-3270b733da4d",
+    "userId": "df15df29-bbeb-458d-bbdb-d27970ffe5d6",
+    "xp": 210,
+    "level": 4,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 14,
+      "cooking": 9,
+      "social": 53,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-07T19:19:18.730Z",
+    "createdAt": "2026-10-07T17:13:27.316Z",
+    "updatedAt": "2026-10-07T20:26:43.743Z"
+  },
+  {
+    "_id": "5b48868c-0542-4ac4-b851-7e5a00fc2abb",
+    "petId": "c34bc49b-e96d-4eab-9228-37a07cf3f7d4",
+    "userId": "1c30f734-5f8e-4574-a11d-631d7ba7b374",
+    "xp": 219,
+    "level": 4,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 17,
+      "cooking": 27,
+      "social": 42,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-08T03:39:56.153Z",
+    "createdAt": "2026-10-07T17:21:18.623Z",
+    "updatedAt": "2026-10-08T13:49:18.401Z"
+  },
+  {
+    "_id": "1e9c6864-4d8a-493a-864e-9ee266f4fb5c",
+    "petId": "a1f996da-7e22-4825-b3cf-5cd29205e049",
+    "userId": "5b07ad25-0a2c-4509-bf4d-db3ea7ffc07f",
+    "xp": 43,
+    "level": 2,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 5,
+      "cooking": 5,
+      "social": 6,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-07T17:27:36.319Z",
+    "createdAt": "2026-10-07T17:27:36.307Z",
+    "updatedAt": "2026-10-07T17:27:36.319Z"
+  },
+  {
+    "_id": "7726a763-5457-483a-af9e-3b79934d050c",
+    "petId": "3032e133-ba76-459c-bc5a-eacd40e5fbb9",
+    "userId": "808c5d70-3bac-45e2-982e-7067b066b9b7",
+    "xp": 43,
+    "level": 2,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 5,
+      "cooking": 5,
+      "social": 6,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-07T17:37:04.075Z",
+    "createdAt": "2026-10-07T17:37:04.064Z",
+    "updatedAt": "2026-10-07T17:37:04.076Z"
+  },
+  {
+    "_id": "1d8c6cae-8acc-4de2-bc07-d74d654daf64",
+    "petId": "ea852cb2-e5b2-4fa2-a632-3b72d3fad0f3",
+    "userId": "23110949-4854-40f4-babe-da0cb7171473",
+    "xp": 118,
+    "level": 3,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 17,
+      "cooking": 11,
+      "social": 19,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-07T18:23:16.173Z",
+    "createdAt": "2026-10-07T17:45:43.858Z",
+    "updatedAt": "2026-10-07T18:51:50.313Z"
+  },
+  {
+    "_id": "4d9ebff3-1eb0-4750-9886-71084e8fdfff",
+    "petId": "eb01f8a5-17ce-4f57-9d41-e7b1567155ec",
+    "userId": "0eaa7c5d-38df-4ea3-b015-d246f7921f2e",
+    "xp": 43,
+    "level": 2,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 5,
+      "cooking": 5,
+      "social": 6,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-08T03:32:52.474Z",
+    "createdAt": "2026-10-08T03:32:52.460Z",
+    "updatedAt": "2026-10-08T03:32:52.474Z"
+  },
+  {
+    "_id": "ec955ea7-9d72-466f-a8b4-7add75bd42d1",
+    "petId": "cd8302ec-bf0d-4bfc-aa34-fc6d26c82648",
+    "userId": "a7cde564-b850-40fd-a429-21312e52bf5c",
+    "xp": 43,
+    "level": 2,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 5,
+      "cooking": 5,
+      "social": 6,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-08T10:29:41.799Z",
+    "createdAt": "2026-10-08T10:29:16.783Z",
+    "updatedAt": "2026-10-08T10:29:41.801Z"
+  },
+  {
+    "_id": "cf8397a0-ae2a-46fe-ba32-2e49e0f045f5",
+    "petId": "6c91a28a-0510-4218-a5b2-090f59c80221",
+    "userId": "1542748e-7056-4482-aaf8-95a26ad93120",
+    "xp": 53,
+    "level": 2,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 5,
+      "cooking": 5,
+      "social": 10,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-08T10:39:00.471Z",
+    "createdAt": "2026-10-08T10:35:18.831Z",
+    "updatedAt": "2026-10-08T10:41:57.761Z"
+  },
+  {
+    "_id": "8e3ce281-750d-49d9-bf5a-f2f18dc063b4",
+    "petId": "c8fda0a9-7141-4015-b554-85f99821873a",
+    "userId": "79e703b0-0907-4f17-ac0b-d2d194b43b71",
+    "xp": 43,
+    "level": 2,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 5,
+      "cooking": 5,
+      "social": 6,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-08T10:49:55.534Z",
+    "createdAt": "2026-10-08T10:49:31.503Z",
+    "updatedAt": "2026-10-08T10:49:55.536Z"
+  },
+  {
+    "_id": "9a8c4819-6091-458f-ab73-8ee9e7c9299f",
+    "petId": "85c9b423-44eb-41ac-8809-83c3bdef9e32",
+    "userId": "c1bf1997-f9eb-40c2-bed9-f9abd644dd9f",
+    "xp": 53,
+    "level": 2,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 5,
+      "cooking": 5,
+      "social": 10,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-08T10:55:46.182Z",
+    "createdAt": "2026-10-08T10:52:36.535Z",
+    "updatedAt": "2026-10-08T10:58:10.146Z"
+  },
+  {
+    "_id": "79022ae5-e526-460f-ba8e-900e1cab0011",
+    "petId": "51ca9bfe-38f0-47c4-99fa-ea50321ce269",
+    "userId": "2326170a-2908-4f3a-b2e2-55e81e5b7d38",
+    "xp": 79,
+    "level": 2,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 5,
+      "cooking": 5,
+      "social": 18,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-08T11:08:40.465Z",
+    "createdAt": "2026-10-08T11:04:12.662Z",
+    "updatedAt": "2026-10-08T15:58:09.100Z"
+  },
+  {
+    "_id": "91e1c616-dd0a-4a8a-b787-c7e2f8b83d18",
+    "petId": "745ef1b6-0506-4641-b815-9f493f49431d",
+    "userId": "d477e3f6-5932-4345-994b-efa49f7f1ed8",
+    "xp": 40,
+    "level": 1,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 5,
+      "cooking": 5,
+      "social": 5,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-08T11:32:24.717Z",
+    "createdAt": "2026-10-08T11:32:24.718Z",
+    "updatedAt": "2026-10-08T11:32:24.718Z"
+  },
+  {
+    "_id": "27db0221-8228-4bee-8bb3-189126c4178c",
+    "petId": "510afbae-ae45-4d01-886e-308f01af08c1",
+    "userId": "5adf3dd5-fe53-4a9b-bf18-03d8d92073e3",
+    "xp": 43,
+    "level": 2,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 5,
+      "cooking": 5,
+      "social": 6,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-08T11:35:11.473Z",
+    "createdAt": "2026-10-08T11:35:04.193Z",
+    "updatedAt": "2026-10-08T11:35:11.474Z"
+  },
+  {
+    "_id": "8fe28f26-08e4-4909-b8b4-baa073760d2b",
+    "petId": "79bf8311-9298-419d-80b7-0739785796e3",
+    "userId": "2677afc5-f811-4ab3-9a3d-7863dc77fce5",
+    "xp": 46,
+    "level": 2,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 5,
+      "cooking": 5,
+      "social": 7,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-08T11:35:50.909Z",
+    "createdAt": "2026-10-08T11:35:42.954Z",
+    "updatedAt": "2026-10-08T11:36:14.885Z"
+  },
+  {
+    "_id": "1e8f0c9a-34f2-4348-b00b-b7e6d2bbc347",
+    "petId": "c659afdd-c93a-4bfc-b802-edf1e8489f9c",
+    "userId": "8eea50e7-bf9a-456e-a3d2-97bee7d803ef",
+    "xp": 49,
+    "level": 2,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 5,
+      "cooking": 5,
+      "social": 8,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-08T11:59:08.336Z",
+    "createdAt": "2026-10-08T11:58:48.592Z",
+    "updatedAt": "2026-10-08T11:59:49.347Z"
+  },
+  {
+    "_id": "79a755ab-ecd8-4277-83d5-ca1510cc9dcc",
+    "petId": "8ab4b0d2-abde-4999-a0b4-d3ef41dca4a2",
+    "userId": "4a791e43-f454-46a5-a74b-0781f43454df",
+    "xp": 49,
+    "level": 2,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 5,
+      "cooking": 5,
+      "social": 8,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-08T12:02:32.424Z",
+    "createdAt": "2026-10-08T12:02:23.746Z",
+    "updatedAt": "2026-10-08T12:03:04.563Z"
+  },
+  {
+    "_id": "2e43df85-c280-4866-88ed-fcedf2a8243c",
+    "petId": "bea9a033-1760-40d8-aa5b-4fe11fbb3065",
+    "userId": "8f361a3f-0f8f-48b7-985a-ba6ccbd90ebf",
+    "xp": 49,
+    "level": 2,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 5,
+      "cooking": 5,
+      "social": 8,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-08T12:04:43.528Z",
+    "createdAt": "2026-10-08T12:04:35.693Z",
+    "updatedAt": "2026-10-08T12:05:09.509Z"
+  },
+  {
+    "_id": "9d3a348d-f702-46bb-802f-23723be554f3",
+    "petId": "48ac73a4-0d4c-4174-8ae2-81dc122c1d08",
+    "userId": "283bdb48-b534-464a-8166-4e0159eb2ce4",
+    "xp": 49,
+    "level": 2,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 5,
+      "cooking": 5,
+      "social": 8,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-08T12:15:57.654Z",
+    "createdAt": "2026-10-08T12:15:49.307Z",
+    "updatedAt": "2026-10-08T12:16:19.565Z"
+  },
+  {
+    "_id": "6856a583-3f1a-45ad-b062-85fdbc6be511",
+    "petId": "b960b85f-44cc-4a45-b28c-029f0c306d3b",
+    "userId": "a4f09a49-8896-46c7-beaf-965dc47a1322",
+    "xp": 49,
+    "level": 2,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 5,
+      "cooking": 5,
+      "social": 8,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-08T12:18:10.095Z",
+    "createdAt": "2026-10-08T12:17:57.592Z",
+    "updatedAt": "2026-10-08T12:19:09.164Z"
+  },
+  {
+    "_id": "41c91396-5f63-4925-b677-11a7b96bb98a",
+    "petId": "a9a16b18-d335-4e34-9556-7383d1207dbb",
+    "userId": "18c90a81-406b-4d76-b1ea-393ab58a4c56",
+    "xp": 49,
+    "level": 2,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 5,
+      "cooking": 5,
+      "social": 8,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-08T12:41:02.997Z",
+    "createdAt": "2026-10-08T12:40:53.840Z",
+    "updatedAt": "2026-10-08T12:41:31.298Z"
+  },
+  {
+    "_id": "8217859c-9725-4681-8022-8484553a4bbb",
+    "petId": "583e76b2-8c22-4878-9320-22fba2e6067e",
+    "userId": "2e0bc65b-638e-49f5-9b9c-4077c09b8ff7",
+    "xp": 49,
+    "level": 2,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 5,
+      "cooking": 5,
+      "social": 8,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-08T12:45:05.089Z",
+    "createdAt": "2026-10-08T12:44:51.155Z",
+    "updatedAt": "2026-10-08T12:45:36.528Z"
+  },
+  {
+    "_id": "63b5147d-6991-4fc2-a468-5f85aadac789",
+    "petId": "1e0e6875-5917-42ff-be4c-abea2e44dd94",
+    "userId": "e8135a3d-a271-402f-82e9-906eb475e582",
+    "xp": 52,
+    "level": 2,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 5,
+      "cooking": 5,
+      "social": 9,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-08T13:12:31.983Z",
+    "createdAt": "2026-10-08T13:12:01.875Z",
+    "updatedAt": "2026-10-08T13:14:47.873Z"
+  },
+  {
+    "_id": "00873fb0-324f-438f-b926-db1fdbf3bfc8",
+    "petId": "3839bfeb-bc66-414d-93ea-4c7a16306859",
+    "userId": "9662df66-d8ed-4d80-9634-e5d39e203a08",
+    "xp": 52,
+    "level": 2,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 5,
+      "cooking": 5,
+      "social": 9,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-08T13:25:38.862Z",
+    "createdAt": "2026-10-08T13:25:19.898Z",
+    "updatedAt": "2026-10-08T13:27:22.961Z"
+  },
+  {
+    "_id": "ad94b936-d353-4db8-b464-7e0b26bf9871",
+    "petId": "bd121a6b-5a15-4cdc-9d8d-bc874f565e10",
+    "userId": "460d34e1-61b3-466c-a9de-7d6b495dfec8",
+    "xp": 46,
+    "level": 2,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 5,
+      "cooking": 5,
+      "social": 7,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-08T13:45:51.407Z",
+    "createdAt": "2026-10-08T13:45:17.511Z",
+    "updatedAt": "2026-10-08T13:46:18.459Z"
+  },
+  {
+    "_id": "f3905de3-330e-4f1e-9bdb-00c6a41542d0",
+    "petId": "8770c0d7-c090-429c-887a-1afb8c322fd0",
+    "userId": "b726d72b-6bd9-40e0-b6a5-b5820b2cfa34",
+    "xp": 40,
+    "level": 1,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 5,
+      "cooking": 5,
+      "social": 5,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-08T14:02:58.668Z",
+    "createdAt": "2026-10-08T14:02:58.670Z",
+    "updatedAt": "2026-10-08T14:02:58.670Z"
+  },
+  {
+    "_id": "bda9f72f-53f5-4efb-8b86-038a484718d1",
+    "petId": "31ad7aa2-5c07-4672-9241-8d09d6830be0",
+    "userId": "e29d2438-baee-46a2-a260-e85f8bfbb6e0",
+    "xp": 46,
+    "level": 2,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 5,
+      "cooking": 5,
+      "social": 7,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-08T14:46:35.145Z",
+    "createdAt": "2026-10-08T14:45:44.960Z",
+    "updatedAt": "2026-10-08T14:47:28.014Z"
+  },
+  {
+    "_id": "ec7e5c72-5fd4-41f4-8582-6b7fc8b28175",
+    "petId": "d171b721-1f74-48c3-a54f-885d6af52556",
+    "userId": "f16db18c-3a8b-4b3e-a4e1-dc90ec049aff",
+    "xp": 101,
+    "level": 3,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 8,
+      "cooking": 7,
+      "social": 22,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-08T16:13:52.941Z",
+    "createdAt": "2026-10-08T16:04:29.601Z",
+    "updatedAt": "2026-10-08T16:53:29.390Z"
+  },
+  {
+    "_id": "9e961798-e0e1-4c5d-b18c-846675ac67dc",
+    "petId": "b3350128-ac6e-4654-ab6b-34fa614c0a6f",
+    "userId": "995a7d83-1c8b-45e9-b8e5-f0de62f2c6ee",
+    "xp": 46,
+    "level": 2,
+    "growthStage": "Baby",
+    "skills": {
+      "curiosity": 5,
+      "cooking": 5,
+      "social": 7,
+      "knowledge": 5
+    },
+    "unlockedTraits": [
+      "Observant Little Eyes"
+    ],
+    "lastLeveledUp": "2026-10-08T16:27:14.034Z",
+    "createdAt": "2026-10-08T16:26:58.359Z",
+    "updatedAt": "2026-10-08T16:27:55.147Z"
+  }
+]

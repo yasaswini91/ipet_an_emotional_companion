@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "db31bbd0-a273-4385-be0f-33b2519da395",
+    "userId": "1542748e-7056-4482-aaf8-95a26ad93120",
+    "petId": "6c91a28a-0510-4218-a5b2-090f59c80221",
+    "gameType": "tictactoe",
+    "score": 100,
+    "result": "won",
+    "duration": 60,
+    "timestamp": "2026-10-08T10:41:57.741Z",
+    "createdAt": "2026-10-08T10:41:57.741Z",
+    "updatedAt": "2026-10-08T10:41:57.742Z"
+  },
+  {
+    "_id": "7dd5cc6a-b75f-4c85-81e4-295e8a5be434",
+    "userId": "c1bf1997-f9eb-40c2-bed9-f9abd644dd9f",
+    "petId": "85c9b423-44eb-41ac-8809-83c3bdef9e32",
+    "gameType": "tictactoe",
+    "score": 100,
+    "result": "won",
+    "duration": 60,
+    "timestamp": "2026-10-08T10:58:10.127Z",
+    "createdAt": "2026-10-08T10:58:10.127Z",
+    "updatedAt": "2026-10-08T10:58:10.127Z"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "_id": "92eae220-8a53-4113-a555-eabda905cd30",
+    "userId": "2326170a-2908-4f3a-b2e2-55e81e5b7d38",
+    "petId": null,
+    "title": "Morning hydration & mindfulness",
+    "category": "Health",
+    "priority": "high",
+    "time": "08:00 AM",
+    "completed": false,
+    "completedAt": null,
+    "createdAt": "2026-10-08T11:06:56.404Z",
+    "updatedAt": "2026-10-08T11:07:09.224Z"
+  },
+  {
+    "_id": "50efe352-b89d-4548-b22c-b4ff19f05670",
+    "userId": "2326170a-2908-4f3a-b2e2-55e81e5b7d38",
+    "petId": null,
+    "title": "Core study / focus session",
+    "category": "Study",
+    "priority": "high",
+    "time": "10:00 AM",
+    "completed": false,
+    "completedAt": null,
+    "createdAt": "2026-10-08T11:06:56.406Z",
+    "updatedAt": "2026-10-08T11:06:56.408Z"
+  },
+  {
+    "_id": "195db070-29e1-41e6-b48c-107e9c1fc3bc",
+    "userId": "2326170a-2908-4f3a-b2e2-55e81e5b7d38",
+    "petId": null,
+    "title": "Afternoon pet walk & fresh air",
+    "category": "Companion",
+    "priority": "medium",
+    "time": "03:00 PM",
+    "completed": false,
+    "completedAt": null,
+    "createdAt": "2026-10-08T11:06:56.409Z",
+    "updatedAt": "2026-10-08T11:06:56.410Z"
+  },
+  {
+    "_id": "4b40a3a5-1a3c-47fc-84bf-26741ea02bfe",
+    "userId": "f16db18c-3a8b-4b3e-a4e1-dc90ec049aff",
+    "petId": null,
+    "title": "Morning hydration & mindfulness",
+    "category": "Health",
+    "priority": "high",
+    "time": "08:00 AM",
+    "completed": false,
+    "completedAt": null,
+    "createdAt": "2026-10-08T16:37:32.721Z",
+    "updatedAt": "2026-10-08T16:37:32.723Z"
+  },
+  {
+    "_id": "4a416c01-e308-4ddc-b43a-5eaa573dc7b7",
+    "userId": "f16db18c-3a8b-4b3e-a4e1-dc90ec049aff",
+    "petId": null,
+    "title": "Core study / focus session",
+    "category": "Study",
+    "priority": "high",
+    "time": "10:00 AM",
+    "completed": false,
+    "completedAt": null,
+    "createdAt": "2026-10-08T16:37:32.727Z",
+    "updatedAt": "2026-10-08T16:37:32.730Z"
+  },
+  {
+    "_id": "17698bc6-8482-49d7-b1f4-c5307ddd01fe",
+    "userId": "f16db18c-3a8b-4b3e-a4e1-dc90ec049aff",
+    "petId": null,
+    "title": "Afternoon pet walk & fresh air",
+    "category": "Companion",
+    "priority": "medium",
+    "time": "03:00 PM",
+    "completed": false,
+    "completedAt": null,
+    "createdAt": "2026-10-08T16:37:32.731Z",
+    "updatedAt": "2026-10-08T16:37:32.733Z"
+  }
+]

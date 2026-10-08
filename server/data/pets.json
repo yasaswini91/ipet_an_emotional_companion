@@ -1,0 +1,1205 @@
+[
+  {
+    "_id": "0394aa05-c4c6-4e99-8a3a-24d57728e558",
+    "userId": "8fde3805-ab84-4035-b7e0-1b8141d45fde",
+    "name": "Mousse",
+    "species": "cat",
+    "breed": "Mousse Maine",
+    "personality": "Easygoing",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little cat who loves to laugh",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#ffb703",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-07T13:06:20.040Z",
+    "updatedAt": "2026-10-07T13:06:20.041Z"
+  },
+  {
+    "_id": "7f61d929-1469-433a-9316-3ae937a951a1",
+    "userId": "4e80215b-987f-43c3-8bbc-261ac39ec2c2",
+    "name": "Mousse",
+    "species": "cat",
+    "breed": "Mousse Maine",
+    "personality": "Easygoing",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little cat who loves to laugh.",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#f59e0b",
+      "eyeColor": "#1e293b",
+      "accessory": "wizard_hat",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-07T13:20:09.611Z",
+    "updatedAt": "2026-10-07T13:20:09.611Z"
+  },
+  {
+    "_id": "1c4c0e09-40e7-4067-aa40-ccb76c86dd87",
+    "userId": "a099be5e-8b94-49ec-b8ea-5238ebefb462",
+    "name": "Mousse",
+    "species": "cat",
+    "breed": "Mousse Maine",
+    "personality": "Easygoing",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little cat who loves to laugh.",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#f59e0b",
+      "eyeColor": "#1e293b",
+      "accessory": "wizard_hat",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-07T13:22:00.274Z",
+    "updatedAt": "2026-10-07T13:22:00.275Z"
+  },
+  {
+    "_id": "22f77d56-80ed-481a-b06e-221823a683cf",
+    "userId": "ebc6d3d9-a687-4d0d-a358-515fd3b05f65",
+    "name": "Mousse",
+    "species": "cat",
+    "breed": "Mousse Maine",
+    "personality": "Easygoing",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little cat who loves to laugh.",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#f59e0b",
+      "eyeColor": "#1e293b",
+      "accessory": "wizard_hat",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-07T13:26:37.952Z",
+    "updatedAt": "2026-10-07T13:26:37.952Z"
+  },
+  {
+    "_id": "eecc5306-d173-4906-8a90-ba0e3d61a4a8",
+    "userId": "1607cfd8-db6f-42c0-991a-d0e57f71ed56",
+    "name": "Mousse",
+    "species": "cat",
+    "breed": "Mousse Maine",
+    "personality": "Easygoing",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A loving easygoing Mousse Maine who loves playing games and afternoon napping.",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#ffb703",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-07T13:28:26.447Z",
+    "updatedAt": "2026-10-07T13:28:26.447Z"
+  },
+  {
+    "_id": "72df5935-a90a-4b51-8785-22eae0a3895e",
+    "userId": "ea2406a3-3f29-4dac-a2f9-41f40a35e56d",
+    "name": "Mousse",
+    "species": "cat",
+    "breed": "Colorful Cat",
+    "personality": "Foodie",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A loving foodie Colorful Cat who loves playing games and afternoon napping.",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#fb7185",
+      "eyeColor": "#0284c7",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "starry_rooftop"
+    },
+    "createdAt": "2026-10-07T13:29:21.832Z",
+    "updatedAt": "2026-10-07T13:31:37.275Z"
+  },
+  {
+    "_id": "2bb6e3dd-3bd9-4be8-b82f-b2fe05060810",
+    "userId": "f8c10039-3ea7-456f-af61-f0d1497869ff",
+    "name": "Mousse",
+    "species": "cat",
+    "breed": "Mousse Maine",
+    "personality": "Easygoing",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little cat who loves to laugh",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#ffb703",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-07T13:48:34.793Z",
+    "updatedAt": "2026-10-07T13:48:34.793Z"
+  },
+  {
+    "_id": "9d996bce-5f68-4971-8da2-3a6385b99c87",
+    "userId": "8bc8f8c6-17bd-4259-9a45-4c365c9d31fa",
+    "name": "Luna",
+    "species": "rabbit",
+    "breed": "Fluffy Bunny",
+    "personality": "Funny",
+    "hobbies": [
+      "studying together",
+      "playing games",
+      "park strolls"
+    ],
+    "description": "A loving funny Fluffy Bunny who loves study companionship and joyful daily adventures.",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#fb7185",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-07T13:52:21.287Z",
+    "updatedAt": "2026-10-07T13:52:21.288Z"
+  },
+  {
+    "_id": "99033910-a13a-4a0c-8521-e7926a365d18",
+    "userId": "cbbe380b-bceb-4c71-8788-6acfa7c1b4d7",
+    "name": "Mousse",
+    "species": "cat",
+    "breed": "Mousse Maine",
+    "personality": "Easygoing",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little cat who loves to laugh",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#ffb703",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-07T14:04:30.681Z",
+    "updatedAt": "2026-10-07T14:04:30.681Z"
+  },
+  {
+    "_id": "9f04829e-8433-4f46-9adf-855841a345fb",
+    "userId": "820bee86-777a-4657-ab95-d79319e185d6",
+    "name": "Mousse",
+    "species": "cat",
+    "breed": "Mousse Maine",
+    "personality": "Easygoing",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little cat who loves to laugh.",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#f59e0b",
+      "eyeColor": "#1e293b",
+      "accessory": "wizard_hat",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-07T14:06:44.516Z",
+    "updatedAt": "2026-10-07T14:06:44.516Z"
+  },
+  {
+    "_id": "9c5671e0-e2f3-44f3-ac72-343225879118",
+    "userId": "5d7b405e-9cf9-44d3-810d-e8994a707f08",
+    "name": "buchi",
+    "species": "dog",
+    "breed": "Golden Retriever",
+    "personality": "Playful",
+    "hobbies": [
+      "studying together",
+      "playing games",
+      "park strolls"
+    ],
+    "description": "A loving playful Golden Retriever who loves study companionship and joyful daily adventures.",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#334155",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-07T15:54:18.561Z",
+    "updatedAt": "2026-10-07T15:54:18.562Z"
+  },
+  {
+    "_id": "3f1ec7d6-4eaa-4ba2-9157-4206ce892246",
+    "userId": "00ed5276-0a05-439c-8307-77b5afa40d0a",
+    "name": "Mousse",
+    "species": "cat",
+    "breed": "Mousse Maine",
+    "personality": "Easygoing",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little cat who loves to laugh",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#ffb703",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-07T17:09:16.821Z",
+    "updatedAt": "2026-10-07T17:09:16.822Z"
+  },
+  {
+    "_id": "5cd18486-718d-42e8-b61a-5841c44d1719",
+    "userId": "e2636f0a-fd56-48ef-ad5d-36a2c6f4d8b4",
+    "name": "Mousse",
+    "species": "cat",
+    "breed": "Mousse Maine",
+    "personality": "Easygoing",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little cat who loves to laugh",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#ffb703",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-07T17:09:59.436Z",
+    "updatedAt": "2026-10-07T17:09:59.436Z"
+  },
+  {
+    "_id": "d5e87f74-bd0b-4446-a10d-fe67185e7d24",
+    "userId": "b0b54302-f99c-4316-9615-161d7b160145",
+    "name": "Mousse",
+    "species": "cat",
+    "breed": "Mousse Maine",
+    "personality": "Easygoing",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little cat who loves to laugh.",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#f59e0b",
+      "eyeColor": "#1e293b",
+      "accessory": "wizard_hat",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-07T17:10:14.763Z",
+    "updatedAt": "2026-10-07T17:10:14.763Z"
+  },
+  {
+    "_id": "cf911bbc-7acf-48ef-8edb-e150d853e4da",
+    "userId": "bc52bdcb-5eb3-43b7-97ff-7f6ed20bbf3d",
+    "name": "Mousse",
+    "species": "cat",
+    "breed": "Mousse Maine",
+    "personality": "Easygoing",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little cat who loves to laugh.",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#f59e0b",
+      "eyeColor": "#1e293b",
+      "accessory": "wizard_hat",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-07T17:10:27.471Z",
+    "updatedAt": "2026-10-07T17:10:27.472Z"
+  },
+  {
+    "_id": "055bf455-74b3-4a10-8f54-120630dab976",
+    "userId": "882255e0-8b9b-4106-9e7c-2a8e17a05232",
+    "name": "Mousse",
+    "species": "cat",
+    "breed": "Mousse Maine",
+    "personality": "Easygoing",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little cat who loves to laugh.",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#f59e0b",
+      "eyeColor": "#1e293b",
+      "accessory": "wizard_hat",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-07T17:11:20.073Z",
+    "updatedAt": "2026-10-07T17:11:20.074Z"
+  },
+  {
+    "_id": "f063f1a0-3585-4c9f-befa-3270b733da4d",
+    "userId": "df15df29-bbeb-458d-bbdb-d27970ffe5d6",
+    "name": "Luna",
+    "species": "cat",
+    "breed": "Mousse Maine",
+    "personality": "Friendly",
+    "hobbies": [
+      "studying together",
+      "playing games",
+      "park strolls"
+    ],
+    "description": "A loving friendly Mousse Maine who loves study companionship and joyful daily adventures.",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#f3f4f6",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-07T17:13:27.302Z",
+    "updatedAt": "2026-10-07T17:13:27.303Z"
+  },
+  {
+    "_id": "c34bc49b-e96d-4eab-9228-37a07cf3f7d4",
+    "userId": "1c30f734-5f8e-4574-a11d-631d7ba7b374",
+    "name": "Luna",
+    "species": "rabbit",
+    "breed": "Fluffy Bunny",
+    "personality": "Playful",
+    "hobbies": [
+      "studying together",
+      "playing games",
+      "park strolls"
+    ],
+    "description": "A loving playful Fluffy Bunny who loves study companionship and joyful daily adventures.",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#f3f4f6",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-07T17:21:18.597Z",
+    "updatedAt": "2026-10-07T17:21:18.598Z"
+  },
+  {
+    "_id": "a1f996da-7e22-4825-b3cf-5cd29205e049",
+    "userId": "5b07ad25-0a2c-4509-bf4d-db3ea7ffc07f",
+    "name": "Mousse",
+    "species": "cat",
+    "breed": "Mousse Maine",
+    "personality": "Easygoing",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little cat who loves to laugh",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#ffb703",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-07T17:27:36.185Z",
+    "updatedAt": "2026-10-07T17:27:36.186Z"
+  },
+  {
+    "_id": "3032e133-ba76-459c-bc5a-eacd40e5fbb9",
+    "userId": "808c5d70-3bac-45e2-982e-7067b066b9b7",
+    "name": "Mousse",
+    "species": "cat",
+    "breed": "Mousse Maine",
+    "personality": "Easygoing",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little cat who loves to laugh",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#ffb703",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-07T17:37:03.929Z",
+    "updatedAt": "2026-10-07T17:37:03.929Z"
+  },
+  {
+    "_id": "ea852cb2-e5b2-4fa2-a632-3b72d3fad0f3",
+    "userId": "23110949-4854-40f4-babe-da0cb7171473",
+    "name": "Luna",
+    "species": "cat",
+    "breed": "Mousse Maine",
+    "personality": "Friendly",
+    "hobbies": [
+      "studying together",
+      "playing games",
+      "park strolls"
+    ],
+    "description": "A loving friendly Mousse Maine who loves study companionship and joyful daily adventures.",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#f3f4f6",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-07T17:45:43.841Z",
+    "updatedAt": "2026-10-07T17:45:43.842Z"
+  },
+  {
+    "_id": "eb01f8a5-17ce-4f57-9d41-e7b1567155ec",
+    "userId": "0eaa7c5d-38df-4ea3-b015-d246f7921f2e",
+    "name": "Mousse",
+    "species": "cat",
+    "breed": "Mousse Maine",
+    "personality": "Easygoing",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little cat who loves to laugh",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#ffb703",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-08T03:32:52.218Z",
+    "updatedAt": "2026-10-08T03:32:52.219Z"
+  },
+  {
+    "_id": "ea994fcf-fbe3-4046-a8c0-6b93f2ea1319",
+    "userId": "27c09989-13f0-462b-bbda-24698f1f5507",
+    "name": "Mousse",
+    "species": "cat",
+    "breed": "Mousse Maine",
+    "personality": "Easygoing",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little cat who loves to laugh",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#ffb703",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-08T08:11:57.705Z",
+    "updatedAt": "2026-10-08T08:11:57.711Z"
+  },
+  {
+    "_id": "598f1689-71b8-40b8-aa10-1459d92b2a92",
+    "userId": "865af014-af06-459a-892f-0e1612dcf6f6",
+    "name": "Mousse",
+    "species": "cat",
+    "breed": "Mousse Maine",
+    "personality": "Easygoing",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little cat who loves to laugh",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#ffb703",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-08T08:53:01.286Z",
+    "updatedAt": "2026-10-08T08:53:01.288Z"
+  },
+  {
+    "_id": "2eb2c1b6-3c1b-4240-9a1b-15d92ccaba9c",
+    "userId": "ddb32b0a-4d2c-4dc1-834b-45fe9844248a",
+    "name": "Mousse",
+    "species": "cat",
+    "breed": "Mousse Maine",
+    "personality": "Easygoing",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little cat who loves to laugh",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#ffb703",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-08T10:13:32.120Z",
+    "updatedAt": "2026-10-08T10:13:32.140Z"
+  },
+  {
+    "_id": "cd8302ec-bf0d-4bfc-aa34-fc6d26c82648",
+    "userId": "a7cde564-b850-40fd-a429-21312e52bf5c",
+    "name": "Mousse",
+    "species": "cat",
+    "breed": "Mousse Maine",
+    "personality": "Easygoing",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little cat who loves to laugh",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#ffb703",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-08T10:26:38.121Z",
+    "updatedAt": "2026-10-08T10:26:38.139Z"
+  },
+  {
+    "_id": "6c91a28a-0510-4218-a5b2-090f59c80221",
+    "userId": "1542748e-7056-4482-aaf8-95a26ad93120",
+    "name": "Luna",
+    "species": "Cat",
+    "breed": "British Shorthair",
+    "personality": "Sunny",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little companion with soft fur who loves company.",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#ffb703",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-08T10:35:18.772Z",
+    "updatedAt": "2026-10-08T10:35:18.793Z"
+  },
+  {
+    "_id": "c8fda0a9-7141-4015-b554-85f99821873a",
+    "userId": "79e703b0-0907-4f17-ac0b-d2d194b43b71",
+    "name": "Mousse",
+    "species": "cat",
+    "breed": "Mousse Maine",
+    "personality": "Easygoing",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little cat who loves to laugh",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#ffb703",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-08T10:46:26.949Z",
+    "updatedAt": "2026-10-08T10:46:26.978Z"
+  },
+  {
+    "_id": "85c9b423-44eb-41ac-8809-83c3bdef9e32",
+    "userId": "c1bf1997-f9eb-40c2-bed9-f9abd644dd9f",
+    "name": "Luna",
+    "species": "Cat",
+    "breed": "British Shorthair",
+    "personality": "Sunny",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little companion with soft fur who loves company.",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#ffb703",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-08T10:52:36.504Z",
+    "updatedAt": "2026-10-08T10:52:36.525Z"
+  },
+  {
+    "_id": "51ca9bfe-38f0-47c4-99fa-ea50321ce269",
+    "userId": "2326170a-2908-4f3a-b2e2-55e81e5b7d38",
+    "name": "bunn",
+    "species": "rabbit",
+    "breed": "Fluffy Bunny",
+    "personality": "Funny",
+    "hobbies": [
+      "studying together",
+      "playing games",
+      "park strolls"
+    ],
+    "description": "A loving funny Fluffy Bunny who loves study companionship and joyful daily adventures.",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#f3f4f6",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-08T11:04:12.636Z",
+    "updatedAt": "2026-10-08T11:04:12.638Z"
+  },
+  {
+    "_id": "745ef1b6-0506-4641-b815-9f493f49431d",
+    "userId": "d477e3f6-5932-4345-994b-efa49f7f1ed8",
+    "name": "bunn",
+    "species": "rabbit",
+    "breed": "Mousse Maine",
+    "personality": "Sunny",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little companion with soft fur who loves company.",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#ffb703",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-08T11:32:24.645Z",
+    "updatedAt": "2026-10-08T11:32:24.667Z"
+  },
+  {
+    "_id": "510afbae-ae45-4d01-886e-308f01af08c1",
+    "userId": "5adf3dd5-fe53-4a9b-bf18-03d8d92073e3",
+    "name": "bunn",
+    "species": "rabbit",
+    "breed": "Mousse Maine",
+    "personality": "Sunny",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little companion with soft fur who loves company.",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#ffb703",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-08T11:35:04.183Z",
+    "updatedAt": "2026-10-08T11:35:04.184Z"
+  },
+  {
+    "_id": "79bf8311-9298-419d-80b7-0739785796e3",
+    "userId": "2677afc5-f811-4ab3-9a3d-7863dc77fce5",
+    "name": "bunn",
+    "species": "rabbit",
+    "breed": "Mousse Maine",
+    "personality": "Sunny",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little companion with soft fur who loves company.",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#ffb703",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-08T11:35:42.940Z",
+    "updatedAt": "2026-10-08T11:35:42.942Z"
+  },
+  {
+    "_id": "c659afdd-c93a-4bfc-b802-edf1e8489f9c",
+    "userId": "8eea50e7-bf9a-456e-a3d2-97bee7d803ef",
+    "name": "bunn",
+    "species": "rabbit",
+    "breed": "Mousse Maine",
+    "personality": "Sunny",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little companion with soft fur who loves company.",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#ffb703",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-08T11:58:48.580Z",
+    "updatedAt": "2026-10-08T11:58:48.582Z"
+  },
+  {
+    "_id": "8ab4b0d2-abde-4999-a0b4-d3ef41dca4a2",
+    "userId": "4a791e43-f454-46a5-a74b-0781f43454df",
+    "name": "bunn",
+    "species": "rabbit",
+    "breed": "Mousse Maine",
+    "personality": "Sunny",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little companion with soft fur who loves company.",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#ffb703",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-08T12:02:23.678Z",
+    "updatedAt": "2026-10-08T12:02:23.698Z"
+  },
+  {
+    "_id": "bea9a033-1760-40d8-aa5b-4fe11fbb3065",
+    "userId": "8f361a3f-0f8f-48b7-985a-ba6ccbd90ebf",
+    "name": "bunn",
+    "species": "rabbit",
+    "breed": "Mousse Maine",
+    "personality": "Sunny",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little companion with soft fur who loves company.",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#ffb703",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-08T12:04:35.682Z",
+    "updatedAt": "2026-10-08T12:04:35.683Z"
+  },
+  {
+    "_id": "48ac73a4-0d4c-4174-8ae2-81dc122c1d08",
+    "userId": "283bdb48-b534-464a-8166-4e0159eb2ce4",
+    "name": "bunn",
+    "species": "rabbit",
+    "breed": "Mousse Maine",
+    "personality": "Sunny",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little companion with soft fur who loves company.",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#ffb703",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-08T12:15:49.296Z",
+    "updatedAt": "2026-10-08T12:15:49.298Z"
+  },
+  {
+    "_id": "b960b85f-44cc-4a45-b28c-029f0c306d3b",
+    "userId": "a4f09a49-8896-46c7-beaf-965dc47a1322",
+    "name": "bunn",
+    "species": "rabbit",
+    "breed": "Mousse Maine",
+    "personality": "Sunny",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little companion with soft fur who loves company.",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#ffb703",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-08T12:17:57.267Z",
+    "updatedAt": "2026-10-08T12:17:57.269Z"
+  },
+  {
+    "_id": "a9a16b18-d335-4e34-9556-7383d1207dbb",
+    "userId": "18c90a81-406b-4d76-b1ea-393ab58a4c56",
+    "name": "bunn",
+    "species": "rabbit",
+    "breed": "Mousse Maine",
+    "personality": "Sunny",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little companion with soft fur who loves company.",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#ffb703",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-08T12:40:53.813Z",
+    "updatedAt": "2026-10-08T12:40:53.824Z"
+  },
+  {
+    "_id": "583e76b2-8c22-4878-9320-22fba2e6067e",
+    "userId": "2e0bc65b-638e-49f5-9b9c-4077c09b8ff7",
+    "name": "bunn",
+    "species": "rabbit",
+    "breed": "Mousse Maine",
+    "personality": "Sunny",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little companion with soft fur who loves company.",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#ffb703",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-08T12:44:51.142Z",
+    "updatedAt": "2026-10-08T12:44:51.144Z"
+  },
+  {
+    "_id": "1e0e6875-5917-42ff-be4c-abea2e44dd94",
+    "userId": "e8135a3d-a271-402f-82e9-906eb475e582",
+    "name": "bunn",
+    "species": "rabbit",
+    "breed": "Mousse Maine",
+    "personality": "Sunny",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little companion with soft fur who loves company.",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#ffb703",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-08T13:12:01.847Z",
+    "updatedAt": "2026-10-08T13:12:01.850Z"
+  },
+  {
+    "_id": "06f795a0-2579-4590-a142-28c9a34d36a2",
+    "userId": "253f2b83-8628-4227-9972-0aa91abab506",
+    "name": "bunn",
+    "species": "rabbit",
+    "breed": "Mousse Maine",
+    "personality": "Sunny",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little companion with soft fur who loves company.",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#ffb703",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-08T13:20:26.701Z",
+    "updatedAt": "2026-10-08T13:20:26.703Z"
+  },
+  {
+    "_id": "3839bfeb-bc66-414d-93ea-4c7a16306859",
+    "userId": "9662df66-d8ed-4d80-9634-e5d39e203a08",
+    "name": "bunn",
+    "species": "rabbit",
+    "breed": "Mousse Maine",
+    "personality": "Sunny",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little companion with soft fur who loves company.",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#ffb703",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-08T13:25:19.814Z",
+    "updatedAt": "2026-10-08T13:25:19.855Z"
+  },
+  {
+    "_id": "1c0333f1-ee63-4668-a6ee-711938224def",
+    "userId": "e47e4813-9c3d-4e7b-9cf3-cbf4ac8ee3e0",
+    "name": "bunn",
+    "species": "rabbit",
+    "breed": "Mousse Maine",
+    "personality": "Sunny",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little companion with soft fur who loves company.",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#ffb703",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-08T13:40:57.262Z",
+    "updatedAt": "2026-10-08T13:40:57.282Z"
+  },
+  {
+    "_id": "bd121a6b-5a15-4cdc-9d8d-bc874f565e10",
+    "userId": "460d34e1-61b3-466c-a9de-7d6b495dfec8",
+    "name": "bunn",
+    "species": "rabbit",
+    "breed": "Mousse Maine",
+    "personality": "Sunny",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little companion with soft fur who loves company.",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#ffb703",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-08T13:44:12.444Z",
+    "updatedAt": "2026-10-08T13:44:12.446Z"
+  },
+  {
+    "_id": "50a0135c-3ced-497b-b19a-911617d2fe16",
+    "userId": "3d324260-d078-4dce-a968-e6e7d4b5e808",
+    "name": "bunn",
+    "species": "rabbit",
+    "breed": "Mousse Maine",
+    "personality": "Easygoing",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little companion with soft fur who loves company.",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#ffb703",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-08T13:52:59.853Z",
+    "updatedAt": "2026-10-08T13:52:59.855Z"
+  },
+  {
+    "_id": "8770c0d7-c090-429c-887a-1afb8c322fd0",
+    "userId": "b726d72b-6bd9-40e0-b6a5-b5820b2cfa34",
+    "name": "bunn",
+    "species": "rabbit",
+    "breed": "Mousse Maine",
+    "personality": "Sunny",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little companion with soft fur who loves company.",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#ffb703",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-08T14:02:53.563Z",
+    "updatedAt": "2026-10-08T14:02:53.582Z"
+  },
+  {
+    "_id": "31ad7aa2-5c07-4672-9241-8d09d6830be0",
+    "userId": "e29d2438-baee-46a2-a260-e85f8bfbb6e0",
+    "name": "bunn",
+    "species": "rabbit",
+    "breed": "Mousse Maine",
+    "personality": "Sunny",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little companion with soft fur who loves company.",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#ffb703",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-08T14:45:40.844Z",
+    "updatedAt": "2026-10-08T14:45:40.861Z"
+  },
+  {
+    "_id": "d171b721-1f74-48c3-a54f-885d6af52556",
+    "userId": "f16db18c-3a8b-4b3e-a4e1-dc90ec049aff",
+    "name": "Luna",
+    "species": "cat",
+    "breed": "Mousse Maine",
+    "personality": "Friendly",
+    "hobbies": [
+      "studying together",
+      "playing games",
+      "park strolls"
+    ],
+    "description": "A loving friendly Mousse Maine who loves study companionship and joyful daily adventures.",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#fb7185",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-08T16:04:29.299Z",
+    "updatedAt": "2026-10-08T16:04:29.300Z"
+  },
+  {
+    "_id": "0893f526-b527-41e3-916a-d49a8750bdd0",
+    "userId": "b7007b67-6fde-4815-b27c-382ca7f25b16",
+    "name": "Luna",
+    "species": "rabbit",
+    "breed": "Mousse Maine",
+    "personality": "Easygoing",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little companion with soft fur who loves company.",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#ffb703",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-08T16:26:33.731Z",
+    "updatedAt": "2026-10-08T16:26:33.733Z"
+  },
+  {
+    "_id": "b3350128-ac6e-4654-ab6b-34fa614c0a6f",
+    "userId": "995a7d83-1c8b-45e9-b8e5-f0de62f2c6ee",
+    "name": "bunn",
+    "species": "rabbit",
+    "breed": "Mousse Maine",
+    "personality": "Sunny",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little companion with soft fur who loves company.",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#ffb703",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-08T16:26:58.029Z",
+    "updatedAt": "2026-10-08T16:26:58.030Z"
+  },
+  {
+    "_id": "e1f8ba13-460d-4666-970a-80f47a093bcf",
+    "userId": "ace78654-5b50-4081-ab0a-b8e9846abb6b",
+    "name": "Luna",
+    "species": "rabbit",
+    "breed": "Mousse Maine",
+    "personality": "Easygoing",
+    "hobbies": [
+      "playing games",
+      "afternoon napping"
+    ],
+    "description": "A gentle and caring little companion with soft fur who loves company.",
+    "avatarUrl": "",
+    "customization": {
+      "color": "#ffb703",
+      "eyeColor": "#023047",
+      "accessory": "none",
+      "outfit": "default",
+      "roomTheme": "warm_cottage"
+    },
+    "createdAt": "2026-10-08T16:32:02.787Z",
+    "updatedAt": "2026-10-08T16:32:02.789Z"
+  }
+]
